@@ -56,7 +56,7 @@ The project will consist of three milestones:
   
   1. **Idea generation phase.** Before class on week 3 a short one page document must be submitted that includes names of each team member and a brief description (approx one paragraph each) of the team's three most exciting ideas. I will meet with each team during the week to discuss ideas and provide my advice on the prospects for the projects.
   
-  2. **Initial writeup.** Before class on week 6, a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during weeks 5 and 6 to discuss progress, questions, problems, etc.
+  2. **Initial Draft.** Before class on week 6, a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during weeks 5 and 6 to discuss progress, questions, problems, etc.
   
   3. **Final project and presentation.**  In week 10 (the final class), each team will have the opportunity to present their work to the class and receive live and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages), which will be due one week later on 13 December. At the end of the writeup, there should be an explicit attribution of labor among the team members.
 
@@ -125,6 +125,8 @@ While no books are required for this class, I highly recommend a selection of th
 - Rittel, H. W. & Webber, M. M. (1973). Dilemmas in a general theory of planning. Policy Sciences, 4(2), 155-169. [[Article]](http://www.cc.gatech.edu/~ellendo/rittel/rittel-dilemma.pdf)
 
 ### Class 2. 11 Oct
+_Assignment #1 (Visualization) Due 24 Hours Before Class_
+
 #### Strategy: External Environment
 1. Case: Yoffie, D. B. and Renee Kim. (2010) Cola Wars Continue: Coke And Pepsi In 2010 (HBS Case 711-462)
 1. Porter, M. E. (1983). Note on the Structural Analysis of Companies. (HBS Case 376-054)
@@ -139,6 +141,10 @@ While no books are required for this class, I highly recommend a selection of th
 - Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer. Chapter 14.
 
 ### Class 3. 18 Oct
+_Assignment #2 (Case Investigation) Due 24 Hours Before Class_
+
+_Project Milestone #1 (Ideas) Due Before Class + Meeting By End of Week_
+
 #### Strategy: Inside the Firm
 1. Collis, D. J. and C. A. Montgomery (2008). Competing on Resources. Harvard Business Review. [[Registration Required]](https://hbr.org/2008/07/competing-on-resources)
 1. Schein, E. H. (1985). Organizational culture and leadership. San Francisco: Jossey. Chapter 1 (pages 1-21).
@@ -152,6 +158,8 @@ While no books are required for this class, I highly recommend a selection of th
 - Peteraf, M. A. (1993). The cornerstones of competitive advantage: A resource-based view. Strategic Management Journal, 14(3), 179-191. [[Article]](https://faculty.fuqua.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%201/Peteraf.pdf)
 
 ### Class 4. 25 Oct
+_Assignment #3 (Correlation Not Causation) Due 24 Hours Before Class_
+
 #### Strategy: Dynamics I
 1. Simulation: Casadesus-Masanell, R. Strategy Simulation: Competitive Dynamics and Wintel V2. (HBS Simulation) (Read User Guide)
 1. Cabral, L. M. B. (2000). Introduction to Industrial Organization. Cambridge: MIT Press. Chapter 8.
@@ -161,6 +169,10 @@ While no books are required for this class, I highly recommend a selection of th
 1. Wikipedia. [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation).
 
 ### Class 5. 1 Nov
+_Assignment #4 (Experiment) Due 24 Hours Before Class_
+
+_Optional: Project Milestone #2 Meeting During Week_
+
 #### Strategy: Dynamics II
 1. Case: Walker, R., Jeffery, M., So, L., Sriram, S., Nathanson, J., Ferreira, J., Feldmeier, J. (2010). Netflix Leading with Data: The Emergence of Data-Driven Video (Kellogg Case)
 1. Schumpeter, J. A. (1942). Capitalism, Socialism, and Democracy. New York: Harper and Row. Part II, Chapter 7 (The Process of Creative Destruction).
@@ -176,6 +188,8 @@ While no books are required for this class, I highly recommend a selection of th
 - Kohavi, R., Crook, T., Longbotham, R., Frasca, B., Henne, R., Ferres, J. L., et al. (2009). [Online experimentation at microsoft](http://ai.stanford.edu/~ronnyk/ExP_DMCaseStudies.pdf). Data Mining Case Studies, 11.
 
 ### Class 6. 8 Nov
+_Project Milestone #2 (Draft) Due Before Class + Meeting By End of Week_
+
 #### Strategy: Economics of Information
 1. Case: Eisenmann, T. R., M. Pao and L. Barley. "Dropbox: 'It Just Works'" (HBS Case)
 1. Varian, H. R. and C. Shapiro (1998). Information Rules. Cambridge: Harvard Business School Press. Chapter 1, pp. 1-18.
@@ -193,6 +207,8 @@ While no books are required for this class, I highly recommend a selection of th
 - King, G., Lucas, & Nielsen, R. A. (2016). The balance-sample size frontier in matching methods for causal inference. American Journal of Political Science, 1-17. [[Prior Version]](http://gking.harvard.edu/files/gking/files/frontier_2.pdf) (New Matching Techniques)
 
 ### Class 7. 15 Nov
+_Assignment #5 (Econometric Methods) Due 24 Hours Before Class_
+
 #### Strategy: Multi-Sided Platforms
 1. Case: Yoffie, D. B. and L. Kind. "LinkedIn Corporation, 2012" (HBS Case)
 1. Eisenmann, T. R., G. Parker, and M. W. Van Alystne (2006). Strategies for Two-Sided Markets. Harvard Business Review. [[Registration Required]](https://hbr.org/2006/10/strategies-for-two-sided-markets#)
@@ -214,6 +230,8 @@ While no books are required for this class, I highly recommend a selection of th
 - Tabakovic, H. and T. Wollmann. (2016). [The Impact of Money on Science: Evidence from Unexpected NCAA Football Outcomes](http://faculty.chicagobooth.edu/thomas.wollmann/docs/Impact_of_Money_on_Science_Tabakovic_Wollmann.pdf) (Instrumental Variables)
 
 ### Class 8. 22 Nov
+_Assignment #6 (Business Model Critique) Due 24 Hours Before Class_
+
 #### Strategy: Data-Based Business Models
 1. Varian, H. R. (2010). [Computer mediated transactions](http://people.ischool.berkeley.edu/~hal/Papers/2010/cmt.pdf). The American Economic Review, 1-10.
 
@@ -223,6 +241,8 @@ While no books are required for this class, I highly recommend a selection of th
 1. Varian, H. R. (2014). [Big data: New tricks for econometrics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.3). Journal of Economic Perspectives, 28(2), 3-28.
 
 ### Class 9. 29 Nov
+_Assignment #7 (Ethics Debate) Due 24 Hours Before Class_
+
 #### Strategy: Security and Ethics
 1. Data Science Association. [Data Science Code of Professional Conduct](http://www.datascienceassn.org/code-of-conduct.html).
 1. Duhigg, C. (2012). [How Companies Learn Your Secrets](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all&_r=0). New York Times.
@@ -236,6 +256,8 @@ While no books are required for this class, I highly recommend a selection of th
 
 
 ### Class 10. 6 Dec
+_Project Milestone #3 (Final Project and Slides) Due Friday 9 Dec_
+
 #### Group Presentations
 #### Course Evaluations
 
