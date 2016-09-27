@@ -19,7 +19,7 @@
   
   1. **Participation.** This course depends on the participation of all the students. Active engagement promotes a more lively discussion and debate. It is in the exchange of ideas that new and interesting ways of thinking about the concepts in the course emerge.
 
-  With that in mind, I will cold calling in class. I understand that some people may find public speaking challenging for a variety of reasons. If this is the case, please see me.
+  With that in mind, I will cold call in class. I understand that some people may find public speaking challenging for a variety of reasons. If this is the case, please see me.
 
   1. **Technology.** Active engagement by all students is a critical part of this module. As a result, the default rule is for all laptops, tablets, phones, etc. to be muted and off the desk. Moreover, recording classroom lectures or discussion is not allowed.
 
@@ -41,24 +41,24 @@
 Assessment will be based on a series of individual assignments and a group project.
 
 ### Individual assignments (60%)
-Individual coursework consists of three components: assignments, mini-presentations, and participation.
+Individual coursework consists of two components: assignments and mini-presentations.
 
-  1. **Assignments.** Individual coursework will consist of 1-2 page write ups or 3-5 slides due 24 hours prior to the start of class. Though labeled as "individual" coursework, student are allowed to work in pairs and hand in a single assignment. However, you are responsible for selecting at least one assignment you submit individually. Also, you may only work with the same partner for two assignments.
+  1. **Assignments.** Individual coursework will consist of 1-2 page write ups or 3-5 slides due 24 hours prior to the start of class in [week 2](#week-2-11-oct-) (10%), [week 7](#week-7-15-nov-) (20%), and [week 9](#week-9-29-nov-) (25%).
 
-  2. **Mini-presentations.** Students will be selected (and notified in advanced) for in-class presentations of these submissions. The presentation will run from two to five minutes. Each student will present at least once, and ideally two to four times during the course.
+  In addition to the assessed assignments, there will be check-in homeworks in [week 3](#week-3-18-oct-), [week 4](#week-4-25-oct-), [week 5](#week-5-1-nov-), and [week 8](#week-8-22-nov-), which will require producing 2-4 slides. Students are allowed to work in pairs and submit a single assignment. However, you may only work with the same partner for two assignments. Note these homeworks will *not* be assessed, but you may be asked to present your work in a mini-presentation (see below)!
 
-  3. **Participation.** To encourage engagement in class, participation will be recorded and will be contribute to the individual component of the assessment at the margins.
+  2. **Mini-presentations (5%).** Students will be selected (and notified in advance) for in-class presentations of these submissions. The presentation will run from two to five minutes. Each student will present at least once, and ideally two to four times during the course.
 
 ### Group project (40%)
 Over the term, students will produce a culminating project. Teams will consist of four to five students.
 
 The project will consist of three milestones:
   
-  1. **Idea generation phase.** Before class on week 3 a short one page document must be submitted that includes names of each team member and a brief description (approx one paragraph each) of the team's three most exciting ideas. I will meet with each team during the week to discuss ideas and provide my advice on the prospects for the projects.
+  1. **Idea generation phase (5%).** Before class on [week 3](#week-3-18-oct-) a short one page document must be submitted that includes names of each team member and a brief description (approx one paragraph each) of the team's three most exciting ideas. I will meet with each team during the week to discuss ideas and provide my advice on the prospects for the projects.
   
-  2. **Initial Draft.** Before class on week 6, a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during weeks 5 and 6 to discuss progress, questions, problems, etc.
+  2. **Initial Draft (10%).** Before class on [week 6](#week-6-8-nov-), a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during weeks 5 and 6 to discuss progress, questions, problems, etc.
   
-  3. **Final project and presentation.**  In week 10 (the final class), each team will have the opportunity to present their work to the class and receive live and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages), which will be due one week later on 13 December. At the end of the writeup, there should be an explicit attribution of labor among the team members.
+  3. **Final project presentation/slides (10%) and writeup (15%).**  In [week 10](#week-10-6-dec-) (the final class, with slides due prior to class), each team will have the opportunity to present their work to the class and receive live and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
 
 Your team may choose from one of the three types of projects:
   
@@ -87,7 +87,7 @@ If you intend on using a programming language to produce your work, I highly sug
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ## Recommended Books
-While no books are required for this class, I highly recommend a selection of the following books to complement what you will see during the term. Books with an (a) or (b) indicate introductory (a) or more advanced (b) treatment of the subject. You probably do not need both.
+While no books are required for this class, I highly recommend a selection of the following books to complement what you will see during the term. Some pairs of books are marked for (a) introductory or more (b) advanced treatment of the subject. You probably do not need both.
 
   1. **Strategy and Economics**
     - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
@@ -104,17 +104,17 @@ While no books are required for this class, I highly recommend a selection of th
     - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
 
   1. **Machine Learning**
-    - (a) James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer. Chapter 10.
+    - (a) James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer.
     - (b) Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer.
 
 ## Schedule and Reading List
-### Class 1. 4 Oct
+### Week 1. 4 Oct
 #### Course Introduction
 1. Porter, M. E. (1996). What is strategy? Harvard Business Review. [[Article]](http://staff.washington.edu/castlej/Articles%20of%20interest/What%20is%20Strategy%20-%20Porter%20HBR.pdf)
 1. Harford, T. (2014). [Big data: are we making a big mistake?](http://www.ft.com/cms/s/2/21a6e7d8-b479-11e3-a09a-00144feabdc0.html) Financial Times.
 
 #### Problem Framing
-1. Camillus, J. C. (2008). [Strategy as a Wicked Problem](https://hbr.org/2008/05/strategy-as-a-wicked-problem).
+1. Camillus, J. C. (2008). [Strategy as a Wicked Problem](https://hbr.org/2008/05/strategy-as-a-wicked-problem). Harvard Business Review.
 1. Trufelman, A. (Producer) (2016). [On Average](http://99percentinvisible.org/episode/on-average/) [Audio Podcast].
 
 #### Ethics (Prelude)
@@ -124,8 +124,8 @@ While no books are required for this class, I highly recommend a selection of th
 - Lazer, D., Kennedy, R., King, G., & Vesinip, A. (2014). [The parable of google flu: Traps in big data analysis](http://gking.harvard.edu/files/gking/files/0314policyforumff.pdf). Science, 343(6176), 1203-1205.
 - Rittel, H. W. & Webber, M. M. (1973). Dilemmas in a general theory of planning. Policy Sciences, 4(2), 155-169. [[Article]](http://www.cc.gatech.edu/~ellendo/rittel/rittel-dilemma.pdf)
 
-### Class 2. 11 Oct
-_Assignment #1 (Visualization) Due 24 Hours Before Class_
+### Week 2. 11 Oct
+_Assessment #1 (Visualization) due noon 10 Oct (10%)_
 
 #### Strategy: External Environment
 1. Case: Yoffie, D. B. and Renee Kim. (2010) Cola Wars Continue: Coke And Pepsi In 2010 (HBS Case 711-462)
@@ -140,10 +140,10 @@ _Assignment #1 (Visualization) Due 24 Hours Before Class_
 ##### Optional
 - Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer. Chapter 14.
 
-### Class 3. 18 Oct
-_Assignment #2 (Case Investigation) Due 24 Hours Before Class_
+### Week 3. 18 Oct
+_Homework #1 (Case Investigation) due noon 17 Oct_
 
-_Project Milestone #1 (Ideas) Due Before Class + Meeting By End of Week_
+_Project Milestone #1 (Ideas) Due noon 18 Oct (5%) + Meeting (19 Oct - 21 Oct)_
 
 #### Strategy: Inside the Firm
 1. Collis, D. J. and C. A. Montgomery (2008). Competing on Resources. Harvard Business Review. [[Registration Required]](https://hbr.org/2008/07/competing-on-resources)
@@ -157,8 +157,8 @@ _Project Milestone #1 (Ideas) Due Before Class + Meeting By End of Week_
 - Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99-120. [[Article]](https://business.illinois.edu/josephm/BA545_Fall%202011/S10/Barney%20(1991).pdf)
 - Peteraf, M. A. (1993). The cornerstones of competitive advantage: A resource-based view. Strategic Management Journal, 14(3), 179-191. [[Article]](https://faculty.fuqua.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%201/Peteraf.pdf)
 
-### Class 4. 25 Oct
-_Assignment #3 (Correlation Not Causation) Due 24 Hours Before Class_
+### Week 4. 25 Oct
+_Homework #2 (Correlation Not Causation) due noon 24 Oct_
 
 #### Strategy: Dynamics I
 1. Simulation: Casadesus-Masanell, R. Strategy Simulation: Competitive Dynamics and Wintel V2. (HBS Simulation) (Read User Guide)
@@ -168,10 +168,8 @@ _Assignment #3 (Correlation Not Causation) Due 24 Hours Before Class_
 1. Pearl, J. (2009). Causal inference in statistics: An overview. Statistics Surveys, 3, 96-146. [[Article]](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 1. Wikipedia. [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation).
 
-### Class 5. 1 Nov
-_Assignment #4 (Experiment) Due 24 Hours Before Class_
-
-_Optional: Project Milestone #2 Meeting During Week_
+### Week 5. 1 Nov
+_Homework #3 (Experiment) due noon 31 Oct_
 
 #### Strategy: Dynamics II
 1. Case: Walker, R., Jeffery, M., So, L., Sriram, S., Nathanson, J., Ferreira, J., Feldmeier, J. (2010). Netflix Leading with Data: The Emergence of Data-Driven Video (Kellogg Case)
@@ -187,8 +185,8 @@ _Optional: Project Milestone #2 Meeting During Week_
 - Kohavi, R., Deng, A., Frasca, B., Longbotham, R., Walker, T., & Xu, Y. (2012). [Trustworthy online controlled experiments: Five puzzling outcomes explained](http://ai.stanford.edu/~ronnyk/puzzlingOutcomesInControlledExperiments.pdf). In Proceedings of the 18th ACM SIGKDD international conference on knowledge discovery and data mining.
 - Kohavi, R., Crook, T., Longbotham, R., Frasca, B., Henne, R., Ferres, J. L., et al. (2009). [Online experimentation at microsoft](http://ai.stanford.edu/~ronnyk/ExP_DMCaseStudies.pdf). Data Mining Case Studies, 11.
 
-### Class 6. 8 Nov
-_Project Milestone #2 (Draft) Due Before Class + Meeting By End of Week_
+### Week 6. 8 Nov
+_Project Milestone #2 (Draft) due noon 7 Nov (10%) + Meeting (8 Nov - 10 Nov)_
 
 #### Strategy: Economics of Information
 1. Case: Eisenmann, T. R., M. Pao and L. Barley. "Dropbox: 'It Just Works'" (HBS Case)
@@ -206,8 +204,8 @@ _Project Milestone #2 (Draft) Due Before Class + Meeting By End of Week_
 - Nagaraj, A. (2016). The Private Impact of Public Maps: Landsat Satellite Imagery and Gold Exploration. Working Paper. (Difference in Differences)
 - King, G., Lucas, & Nielsen, R. A. (2016). The balance-sample size frontier in matching methods for causal inference. American Journal of Political Science, 1-17. [[Prior Version]](http://gking.harvard.edu/files/gking/files/frontier_2.pdf) (New Matching Techniques)
 
-### Class 7. 15 Nov
-_Assignment #5 (Econometric Methods) Due 24 Hours Before Class_
+### Week 7. 15 Nov
+_Assessment #2 (Econometric Methods) due noon 14 Nov (20%)_
 
 #### Strategy: Multi-Sided Platforms
 1. Case: Yoffie, D. B. and L. Kind. "LinkedIn Corporation, 2012" (HBS Case)
@@ -229,8 +227,8 @@ _Assignment #5 (Econometric Methods) Due 24 Hours Before Class_
 - Luca, M. (2016). [Reviews, reputation, and revenue: The case of yelp.Com](http://www.hbs.edu/faculty/Pages/download.aspx?name=12-016.pdf). Working Paper. (Regression Discontinuity)
 - Tabakovic, H. and T. Wollmann. (2016). [The Impact of Money on Science: Evidence from Unexpected NCAA Football Outcomes](http://faculty.chicagobooth.edu/thomas.wollmann/docs/Impact_of_Money_on_Science_Tabakovic_Wollmann.pdf) (Instrumental Variables)
 
-### Class 8. 22 Nov
-_Assignment #6 (Business Model Critique) Due 24 Hours Before Class_
+### Week 8. 22 Nov
+_Homework #4 (Data Industry Trends) due noon 21 Nov_
 
 #### Strategy: Data-Based Business Models
 1. Varian, H. R. (2010). [Computer mediated transactions](http://people.ischool.berkeley.edu/~hal/Papers/2010/cmt.pdf). The American Economic Review, 1-10.
@@ -240,8 +238,8 @@ _Assignment #6 (Business Model Critique) Due 24 Hours Before Class_
 1. Shmueli, G. (2010). [To explain or to predict?](http://arxiv.org/pdf/1101.0891.pdf) Statistical Science, 25(3), 289-310.
 1. Varian, H. R. (2014). [Big data: New tricks for econometrics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.3). Journal of Economic Perspectives, 28(2), 3-28.
 
-### Class 9. 29 Nov
-_Assignment #7 (Ethics Debate) Due 24 Hours Before Class_
+### Week 9. 29 Nov
+_Assessment #3 (Ethics Debate) due noon 28 Nov (25%)_
 
 #### Strategy: Security and Ethics
 1. Data Science Association. [Data Science Code of Professional Conduct](http://www.datascienceassn.org/code-of-conduct.html).
@@ -255,8 +253,9 @@ _Assignment #7 (Ethics Debate) Due 24 Hours Before Class_
 #### Course Wrap Up
 
 
-### Class 10. 6 Dec
-_Project Milestone #3 (Final Project and Slides) Due Friday 9 Dec_
+### Week 10. 6 Dec
+_Project Milestone #3 (Final Slides and Presentation) due noon 6 Dec (10%)_
+_Project Milestone #3 (Final Writeup) due noon 9 Dec (15%)_
 
 #### Group Presentations
 #### Course Evaluations
