@@ -255,6 +255,7 @@ _Assessment #3 (Ethics Debate) due noon 28 Nov (25%)_
 
 ### Week 10. 6 Dec
 _Project Milestone #3 (Final Slides and Presentation) due noon 6 Dec (10%)_
+
 _Project Milestone #3 (Final Writeup) due noon 9 Dec (15%)_
 
 #### Group Presentations
