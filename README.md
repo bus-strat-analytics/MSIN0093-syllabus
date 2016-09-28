@@ -87,11 +87,11 @@ If you intend on using a programming language to produce your work, I highly sug
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ## Recommended Books
-While no books are required for this class, I highly recommend a selection of the following books to complement what you will see during the term. Some pairs of books are marked for (a) introductory or more (b) advanced treatment of the subject. You probably do not need both.
+While no books are required for this class, I highly recommend a selection of the following books to complement what you will see during the term. Some pairs of books are marked for (a) introductory or (b) more advanced treatment of the subject. You probably do not need both.
 
   1. **Strategy and Economics**
-    - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
     - Cabral, L. M. B. (2000). Introduction to Industrial Organization. Cambridge: MIT Press.
+    - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
     - Varian, H. R. and C. Shapiro (1998). Information Rules. Cambridge: Harvard Business School Press.
 
   1. **Visualization**
@@ -141,7 +141,7 @@ _Assessment #1 (Visualization) due noon 10 Oct (10%)_
 - Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer. Chapter 14.
 
 ### Week 3. 18 Oct
-_Homework #1 (Case Investigation) due noon 17 Oct_
+_Homework #1 (Airbus Case Questions) due noon 17 Oct_
 
 _Project Milestone #1 (Ideas) Due noon 18 Oct (5%) + Meeting (19 Oct - 21 Oct)_
 
@@ -181,6 +181,7 @@ _Homework #3 (Experiment) due noon 31 Oct_
 1. Kohavi, R., Longbotham, R., Sommerfield, D., & Henne, R. M. (2009). [Controlled experiments on the web: Survey and practical guide](http://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf). Data Mining and Knowledge Discovery, 18(1), 140-181. (Focus on Sections 1-3, 6.)
 
 ##### Optional
+- Christensen, C. M. & Bower, J. L. (1996). Customer power, strategic investment, and the failure of leading firms. Strategic Management Journal, 17(3), 197-218. [[Article]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.7572&rep=rep1&type=pdf)
 - Crook, T., Frasca, B., Kohavi, R., & Longbotham, R. (2009). [Seven pitfalls to avoid when running controlled experiments on the web](http://ai.stanford.edu/~ronnyk/2009-ExPpitfalls.pdf). In Proceedings of the 15th ACM SIGKDD international conference on knowledge discovery and data mining.
 - Kohavi, R., Deng, A., Frasca, B., Longbotham, R., Walker, T., & Xu, Y. (2012). [Trustworthy online controlled experiments: Five puzzling outcomes explained](http://ai.stanford.edu/~ronnyk/puzzlingOutcomesInControlledExperiments.pdf). In Proceedings of the 18th ACM SIGKDD international conference on knowledge discovery and data mining.
 - Kohavi, R., Crook, T., Longbotham, R., Frasca, B., Henne, R., Ferres, J. L., et al. (2009). [Online experimentation at microsoft](http://ai.stanford.edu/~ronnyk/ExP_DMCaseStudies.pdf). Data Mining Case Studies, 11.
