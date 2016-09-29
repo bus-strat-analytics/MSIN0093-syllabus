@@ -43,11 +43,11 @@ Assessment will be based on a series of individual assignments and a group proje
 ### Individual assignments (60%)
 Individual coursework consists of two components: assignments and mini-presentations.
 
-  1. **Assignments.** Individual coursework will consist of 1-2 page write ups or 3-5 slides due 24 hours prior to the start of class in [week 2](#week-2-11-oct) (10%), [week 7](#week-7-15-nov) (20%), and [week 9](#week-9-29-nov) (25%).
+  1. **Assignments.** Individual coursework will consist of 1-2 page write ups or 3-6 slides due 24 hours prior to the start of class in [week 2](#week-2-11-oct) (10%), [week 7](#week-7-15-nov) (20%), and [week 9](#week-9-29-nov) (25%).
 
   In addition to the assessed assignments, there will be check-in homeworks in [week 3](#week-3-18-oct), [week 4](#week-4-25-oct), [week 5](#week-5-1-nov), and [week 8](#week-8-22-nov), which will require producing 2-4 slides. Students are allowed to work in pairs and submit a single assignment. However, you may only work with the same partner for two assignments. Note these homeworks will *not* be assessed, but you may be asked to present your work in a mini-presentation (see below)!
 
-  2. **Mini-presentations (5%).** Students will be selected (and notified in advance) for in-class presentations of these submissions. The presentation will run from two to five minutes. Each student will present at least once, and ideally two to four times during the course.
+  2. **Mini-presentations (5%).** Students will be selected for in-class presentations of these submissions. The presentation will run for approximately five minutes. Each student will present at least once, and ideally three to five times during the course.
 
 ### Group project (40%)
 Over the term, students will produce a culminating project. Teams will consist of four to five students.
@@ -60,7 +60,7 @@ The project will consist of three milestones:
   
   3. **Final project presentation/slides (10%) and writeup (15%).**  In [week 10](#week-10-6-dec) (the final class, with slides due prior to class), each team will have the opportunity to present their work to the class and receive live and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
 
-Your team may choose from one of the three types of projects:
+Your team may choose one of the three types of projects:
   
   1. **Data project.** You are the data team of your firm and you are presenting a research project to the executive team as a means for better understanding customers, transactions, relationships between various activities of users, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on research agenda).
   
@@ -78,6 +78,7 @@ Having said that, there are a number of applications and environments that I wil
 
 - **[KNIME Analytics Platform](https://www.knime.org/knime-analytics-platform).** A free to download graphic-based application for data analysis. Digital copies of [KNIME Beginner's Luck](https://www.knime.org/knimepress/beginners-luck) are available for students with the appropriate code.
 - **[Amazon Web Services Machine Learning](https://aws.amazon.com/machine-learning/).** Cloud based machine learning platform. Education accounts can be set up to get started.
+- **[Microsot Cloud Platform](https://www.microsoft.com/en-us/cloud-platform/).** Alternative cloud platform. Education accounts available.
 - **[Tableau](http://www.tableau.com/).** Data visualization tool. One year license is available to students.
 - **[Grid](https://quid.com).** Online platform for topic clustering.
 
@@ -125,7 +126,7 @@ While no books are required for this class, I highly recommend a selection of th
 - Rittel, H. W. & Webber, M. M. (1973). Dilemmas in a general theory of planning. Policy Sciences, 4(2), 155-169. [[Article]](http://www.cc.gatech.edu/~ellendo/rittel/rittel-dilemma.pdf)
 
 ### Week 2. 11 Oct
-_Assessment #1 (Visualization) due noon 10 Oct (10%)_
+_Assessment #1 (Visualization Slides) due noon 10 Oct (10%)_
 
 #### Strategy: External Environment
 1. Case: Yoffie, D. B. and Renee Kim. (2010) Cola Wars Continue: Coke And Pepsi In 2010 (HBS Case 711-462)
@@ -206,7 +207,7 @@ _Project Milestone #2 (Draft) due noon 7 Nov (10%) + Meeting (8 Nov - 10 Nov)_
 - King, G., Lucas, & Nielsen, R. A. (2016). The balance-sample size frontier in matching methods for causal inference. American Journal of Political Science, 1-17. [[Prior Version]](http://gking.harvard.edu/files/gking/files/frontier_2.pdf) (New Matching Techniques)
 
 ### Week 7. 15 Nov
-_Assessment #2 (Econometric Methods) due noon 14 Nov (20%)_
+_Assessment #2 (Econometric Methods Slides) due noon 14 Nov (20%)_
 
 #### Strategy: Multi-Sided Platforms
 1. Case: Yoffie, D. B. and L. Kind. "LinkedIn Corporation, 2012" (HBS Case)
@@ -240,7 +241,7 @@ _Homework #4 (Data Industry Trends) due noon 21 Nov_
 1. Varian, H. R. (2014). [Big data: New tricks for econometrics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.3). Journal of Economic Perspectives, 28(2), 3-28.
 
 ### Week 9. 29 Nov
-_Assessment #3 (Ethics Debate) due noon 28 Nov (25%)_
+_Assessment #3 (Ethics Debate Writeup) due noon 28 Nov (25%)_
 
 #### Strategy: Security and Ethics
 1. Data Science Association. [Data Science Code of Professional Conduct](http://www.datascienceassn.org/code-of-conduct.html).
