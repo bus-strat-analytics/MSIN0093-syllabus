@@ -10,12 +10,14 @@
   - Offered: Fall 2016, Term 1
   - Meeting time: Tuesdays, 12:00pm to 3:00pm
   - Class location: 1CW, Northeast Lecture Theater
-  - TA: [Andrew Montandon](mailto:andrewmontandon@gmail.com)
+  - TA: [Andrew Montandon](mailto:a.montandon@ucl.ac.uk), Office Hours: Tuesdays, 10:00am to 11:45am, 1CW, NE hot desks
 
 ## Policies
-  1. **Attendance.** Attendance is critical and mandatory. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
+  1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
   
   1. **Class decorum.** Treat our time in the classroom as you would meeting with the executive team or board of directors of your company. This means listening to and respecting the perspectives of your peers. It also means speaking up and disagreeing when you have a different opinion.
+
+  In line with the classroom as a boardroom theme (and in keeping with school rules), I ask you to refrain from bringing food or drinks (water bottles are OK) into the class. I suggest eating lunch a bit before class and then eating a snack during the break.
   
   1. **Participation.** This course depends on the participation of all the students. Active engagement promotes a more lively discussion and debate. It is in the exchange of ideas that new and interesting ways of thinking about the concepts in the course emerge.
 
@@ -38,7 +40,7 @@
   1. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please let me know before class begins that you have a guest. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers in the class.
 
 ## Assessment
-Assessment will be based on a series of individual assignments and a group project.
+Assessment will be based on a series of individual assignments and a team project.
 
 ### Individual assignments (60%)
 Individual coursework consists of two components: assignments and mini-presentations.
@@ -49,7 +51,7 @@ Individual coursework consists of two components: assignments and mini-presentat
 
   2. **Mini-presentations (5%).** Students will be selected for in-class presentations of these submissions. The presentation will run for approximately five minutes. Each student will present at least once, and ideally three to five times during the course.
 
-### Group project (40%)
+### Team project (40%)
 Over the term, students will produce a culminating project. Teams will consist of four to five students.
 
 The project will consist of three milestones:
@@ -64,7 +66,7 @@ Your team may choose one of the three types of projects:
   
   1. **Data project.** You are the data team of your firm and you are presenting a research project to the executive team as a means for better understanding customers, transactions, relationships between various activities of users, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on research agenda).
   
-  1. **Data-based business proposal.** You are an entrepreneurial team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this course relate to your startup.
+  1. **Data-based business proposal.** You are an entrepreneurial team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this course relate to the value hypothesis of your startup.
   
   1. **Industry report.** You are members of a consulting team being retained to report how data and analytics are transforming a specific industry. You will identify the industry and describe how data might transform it. You will also discuss how existing firms in the industry can best respond to the transformation as well as what new entrants with a "data-first" culture might look like. Ideally, your chosen industry is understudied in existing public forums.
 
@@ -260,7 +262,7 @@ _Project Milestone #3 (Final Slides and Presentation) due noon 6 Dec (10%)_
 
 _Project Milestone #3 (Final Writeup) due noon 9 Dec (15%)_
 
-#### Group Presentations
+#### Team Presentations
 #### Course Evaluations
 
 
