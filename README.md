@@ -70,6 +70,27 @@ Your team may choose one of the three types of projects:
   
   1. **Industry report.** You are members of a consulting team being retained to report how data and analytics are transforming a specific industry. You will identify the industry and describe how data might transform it. You will also discuss how existing firms in the industry can best respond to the transformation as well as what new entrants with a "data-first" culture might look like. Ideally, your chosen industry is understudied in existing public forums.
 
+### Summary of Submission Deadlines
+For your convenience, a summary of all deadlines is posted below. These deadlines are also listed by week in the [Schedule and Reading List](#schedule-and-reading-list).
+
+| Assignment # | Week | Deadline | Description | Weight |
+| -----: | ---: | -------: | :---------- | -----: |
+**Assessments** |
+| 1 | [2](#week-2-11-oct) | 10 Oct 12:00 | Visualizaiton Slides | 10% |
+| 2 | [7](#week-7-15-nov) | 14 Nov 12:00 | Econometric Methods Slides | 20% |
+| 3 | [9](#week-9-29-nov) | 28 Nov 12:00 | Ethics Debate Writeup | 25% |
+|   | Ongoing | na | Mini-Presentations | 5% |
+**Homeworks** |
+| 1 | [3](#week-3-18-oct) | 17 Oct 12:00 | Airbus Case Questions     | 0% |
+| 2 | [4](#week-4-25-oct) | 24 Oct 12:00 | Correlation Not Causation | 0% |
+| 3 | [5](#week-5-1-nov) | 31 Oct 12:00 | Experiment                | 0% |
+| 4 | [8](#week-8-22-nov) | 21 Nov 12:00 | Data Industry Trends      | 0% |
+**Project Milestones** |
+| 1 |   [3](#week-3-18-oct) | 18 Oct 12:00 | Ideas |  5% |
+| 2 |   [6](#week-6-8-nov) | 18 Oct 12:00 | Draft | 10% |
+| 3a | [10](#week-10-6-dec) | 6 Dec 12:00 | Final Slides and Presentation | 10% |
+| 3b | [10](#week-10-6-dec) | 9 Dec 12:00 | Final Writeup | 15% |
+
 ## Honor Code
 By taking Business Strategy and Analytics at the UCL School of Management, you are agreeing to maintain a high level of professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the university's code of conduct.
 
@@ -258,9 +279,9 @@ _Assessment #3 (Ethics Debate Writeup) due noon 28 Nov (25%)_
 
 
 ### Week 10. 6 Dec
-_Project Milestone #3 (Final Slides and Presentation) due noon 6 Dec (10%)_
+_Project Milestone #3a (Final Slides and Presentation) due noon 6 Dec (10%)_
 
-_Project Milestone #3 (Final Writeup) due noon 9 Dec (15%)_
+_Project Milestone #3b (Final Writeup) due noon 9 Dec (15%)_
 
 #### Team Presentations
 #### Course Evaluations
