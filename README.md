@@ -226,7 +226,7 @@ _Project Milestone #2 (Draft) due noon 7 Nov (10%) + Meeting (8 Nov - 10 Nov)_
 ##### Optional
 - Azoulay, P., Stuart, T., & Wang, Y. (2014). Matthew: Effect or fable? Management Science, 60(1), 92-109. [[Prior Version]](http://pazoulay.scripts.mit.edu/docs/matthew.pdf) (Coarsened Exact Matching)
 - Galasso, A. & Simcoe, T. S. (2011). CEO overconfidence and innovation. Management Science, 57(8), 1469-1484. [[Prior Version]](http://www.nber.org/papers/w16041.pdf) (Fixed Effects)
-- Nagaraj, A. (2016). The Private Impact of Public Maps: Landsat Satellite Imagery and Gold Exploration. Working Paper. (Difference in Differences)
+- Nagaraj, A. (2016). The Private Impact of Public Maps: Landsat Satellite Imagery and Gold Exploration. Working Paper. (Difference in Differences) [[UCL Moodle]](https://moodle.ucl.ac.uk/pluginfile.php/3636959/mod_resource/content/3/nagaraj_landsat.pdf)
 - King, G., Lucas, & Nielsen, R. A. (2016). The balance-sample size frontier in matching methods for causal inference. American Journal of Political Science, 1-17. [[Prior Version]](http://gking.harvard.edu/files/gking/files/frontier_2.pdf) (New Matching Techniques)
 
 ### Week 7. 15 Nov
