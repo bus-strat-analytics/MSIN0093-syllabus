@@ -87,7 +87,7 @@ For your convenience, a summary of all deadlines is posted below. These deadline
 | 4 | [8](#week-8-22-nov) | 21 Nov 12:00 | Data Industry Trends      | 0% |
 **Project Milestones** |
 | 1 |   [3](#week-3-18-oct) | 18 Oct 12:00 | Ideas |  5% |
-| 2 |   [6](#week-6-8-nov) | 18 Oct 12:00 | Draft | 10% |
+| 2 |   [6](#week-6-8-nov) | 8 Nov 12:00 | Draft | 10% |
 | 3a | [10](#week-10-6-dec) | 6 Dec 12:00 | Final Slides and Presentation | 10% |
 | 3b | [10](#week-10-6-dec) | 9 Dec 12:00 | Final Writeup | 15% |
 
