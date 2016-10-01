@@ -79,7 +79,7 @@ For your convenience, a summary of all deadlines is posted below. These deadline
 | -----: | ---: | -------: | :---------- | -----: |
 | [2](#week-2-11-oct)  | Assessment #1         | 10 Oct 12:00 | Visualizaiton Slides | 10% |
 | [3](#week-3-18-oct)  | Homework #1           | 17 Oct 12:00 | Airbus Case Questions     | 0% |
-|  | Project Milestone #1  | 18 Oct 12:00 | Ideas |  5% |
+| [3](#week-3-18-oct)  | Project Milestone #1  | 18 Oct 12:00 | Ideas |  5% |
 | [4](#week-4-25-oct)  | Homework #2           | 24 Oct 12:00 | Correlation Not Causation | 0% |
 | [5](#week-5-1-nov)   | Homework #3           | 31 Oct 12:00 | Experiment                | 0% |
 | [6](#week-6-8-nov)   | Project Milestone #2  | 8 Nov 12:00 | Draft | 10% |
@@ -87,7 +87,7 @@ For your convenience, a summary of all deadlines is posted below. These deadline
 | [8](#week-8-22-nov)  | Homework #4           | 21 Nov 12:00 | Data Industry Trends      | 0% |
 | [9](#week-9-29-nov)  | Assessment #3         | 28 Nov 12:00 | Ethics Debate Writeup | 25% |
 | [10](#week-10-6-dec) | Project Milestone #3a | 6 Dec 12:00 | Final Slides and Presentation | 10% |
-|  | Project Milestone #3b | 9 Dec 12:00 | Final Writeup | 15% |
+| [10](#week-10-6-dec) | Project Milestone #3b | 9 Dec 12:00 | Final Writeup | 15% |
 |
 |   | Ongoing | na | Mini-Presentations | 5% |
 
