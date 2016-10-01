@@ -49,6 +49,8 @@ Individual coursework consists of two components: assignments and mini-presentat
 
   In addition to the assessed assignments, there will be check-in homeworks, consisting of 2-5 slides. Students are allowed to work in pairs and submit a single assignment. However, you may only work with the same partner for two assignments. Note these homeworks will *not* be assessed, but you may be asked to present your work in a mini-presentation (see below)!
 
+  For the slides assignments, if there is a need for additional exposition on to support the content on the slide, then add a _short_ commentary to the presenter notes and submit the slides with the presenter notes.
+
   2. **Mini-presentations (5%).** Students will be selected for in-class presentations of these submissions. The presentation will run for approximately five minutes. Each student will present at least once, and ideally three to five times during the course.
 
 ### Team project (40%)
@@ -77,7 +79,7 @@ For your convenience, a summary of all deadlines is posted below. These deadline
 | -----: | ---: | -------: | :---------- | -----: |
 | [2](#week-2-11-oct)  | Assessment #1         | 10 Oct 12:00 | Visualizaiton Slides | 10% |
 | [3](#week-3-18-oct)  | Homework #1           | 17 Oct 12:00 | Airbus Case Questions     | 0% |
-| [3](#week-3-18-oct)  | Project Milestone #1  | 18 Oct 12:00 | Ideas |  5% |
+|  | Project Milestone #1  | 18 Oct 12:00 | Ideas |  5% |
 | [4](#week-4-25-oct)  | Homework #2           | 24 Oct 12:00 | Correlation Not Causation | 0% |
 | [5](#week-5-1-nov)   | Homework #3           | 31 Oct 12:00 | Experiment                | 0% |
 | [6](#week-6-8-nov)   | Project Milestone #2  | 8 Nov 12:00 | Draft | 10% |
@@ -85,7 +87,7 @@ For your convenience, a summary of all deadlines is posted below. These deadline
 | [8](#week-8-22-nov)  | Homework #4           | 21 Nov 12:00 | Data Industry Trends      | 0% |
 | [9](#week-9-29-nov)  | Assessment #3         | 28 Nov 12:00 | Ethics Debate Writeup | 25% |
 | [10](#week-10-6-dec) | Project Milestone #3a | 6 Dec 12:00 | Final Slides and Presentation | 10% |
-| [10](#week-10-6-dec) | Project Milestone #3b | 9 Dec 12:00 | Final Writeup | 15% |
+|  | Project Milestone #3b | 9 Dec 12:00 | Final Writeup | 15% |
 |
 |   | Ongoing | na | Mini-Presentations | 5% |
 
