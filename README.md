@@ -43,11 +43,11 @@
 Assessment will be based on a series of individual assignments and a team project.
 
 ### Individual assignments (60%)
-Individual coursework consists of two components: assignments and mini-presentations.
+Individual coursework consists of two components: assignments and mini-presentations. See [Summary of Submission Deadlines](#summary-of-submission-deadlines) for times and weights of individual assignments.
 
-  1. **Assignments.** Individual coursework will consist of 1-2 page write ups or 3-6 slides due 24 hours prior to the start of class in [week 2](#week-2-11-oct) (10%), [week 7](#week-7-15-nov) (20%), and [week 9](#week-9-29-nov) (25%).
+  1. **Assessed Assignments (55%).** Individual assessed assignments will consist of 2 page write ups or 3-6 slides due 24 hours prior to the start of class.
 
-  In addition to the assessed assignments, there will be check-in homeworks in [week 3](#week-3-18-oct), [week 4](#week-4-25-oct), [week 5](#week-5-1-nov), and [week 8](#week-8-22-nov), which will require producing 2-4 slides. Students are allowed to work in pairs and submit a single assignment. However, you may only work with the same partner for two assignments. Note these homeworks will *not* be assessed, but you may be asked to present your work in a mini-presentation (see below)!
+  In addition to the assessed assignments, there will be check-in homeworks, consisting of 2-5 slides. Students are allowed to work in pairs and submit a single assignment. However, you may only work with the same partner for two assignments. Note these homeworks will *not* be assessed, but you may be asked to present your work in a mini-presentation (see below)!
 
   2. **Mini-presentations (5%).** Students will be selected for in-class presentations of these submissions. The presentation will run for approximately five minutes. Each student will present at least once, and ideally three to five times during the course.
 
@@ -58,9 +58,9 @@ The project will consist of three milestones:
   
   1. **Idea generation phase (5%).** Before class on [week 3](#week-3-18-oct) a short one page document must be submitted that includes names of each team member and a brief description (approx one paragraph each) of the team's three most exciting ideas. I will meet with each team during the week to discuss ideas and provide my advice on the prospects for the projects.
   
-  2. **Initial Draft (10%).** Before class on [week 6](#week-6-8-nov), a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during weeks 5 and 6 to discuss progress, questions, problems, etc.
+  2. **Initial Draft (10%).** Before class on [week 6](#week-6-8-nov), a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during week 6 to discuss progress, questions, problems, etc.
   
-  3. **Final project presentation/slides (10%) and writeup (15%).**  In [week 10](#week-10-6-dec) (the final class, with slides due prior to class), each team will have the opportunity to present their work to the class and receive live and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
+  3. **Final project presentation/slides (10%) and writeup (15%).**  In [week 10](#week-10-6-dec), each team will have the opportunity to present their work to the class and receive verbal and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
 
 Your team may choose one of the three types of projects:
   
