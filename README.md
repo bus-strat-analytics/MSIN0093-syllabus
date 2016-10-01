@@ -73,23 +73,21 @@ Your team may choose one of the three types of projects:
 ### Summary of Submission Deadlines
 For your convenience, a summary of all deadlines is posted below. These deadlines are also listed by week in the [Schedule and Reading List](#schedule-and-reading-list).
 
-| Assignment # | Week | Deadline | Description | Weight |
+| Week | Assignment # | Deadline | Description | Weight |
 | -----: | ---: | -------: | :---------- | -----: |
-**Assessments** |
-| 1 | [2](#week-2-11-oct) | 10 Oct 12:00 | Visualizaiton Slides | 10% |
-| 2 | [7](#week-7-15-nov) | 14 Nov 12:00 | Econometric Methods Slides | 20% |
-| 3 | [9](#week-9-29-nov) | 28 Nov 12:00 | Ethics Debate Writeup | 25% |
+| [2](#week-2-11-oct)  | Assessment #1         | 10 Oct 12:00 | Visualizaiton Slides | 10% |
+| [3](#week-3-18-oct)  | Homework #1           | 17 Oct 12:00 | Airbus Case Questions     | 0% |
+| [3](#week-3-18-oct)  | Project Milestone #1  | 18 Oct 12:00 | Ideas |  5% |
+| [4](#week-4-25-oct)  | Homework #2           | 24 Oct 12:00 | Correlation Not Causation | 0% |
+| [5](#week-5-1-nov)   | Homework #3           | 31 Oct 12:00 | Experiment                | 0% |
+| [6](#week-6-8-nov)   | Project Milestone #2  | 8 Nov 12:00 | Draft | 10% |
+| [7](#week-7-15-nov)  | Assessment #2         | 14 Nov 12:00 | Econometric Methods Slides | 20% |
+| [8](#week-8-22-nov)  | Homework #4           | 21 Nov 12:00 | Data Industry Trends      | 0% |
+| [9](#week-9-29-nov)  | Assessment #3         | 28 Nov 12:00 | Ethics Debate Writeup | 25% |
+| [10](#week-10-6-dec) | Project Milestone #3a | 6 Dec 12:00 | Final Slides and Presentation | 10% |
+| [10](#week-10-6-dec) | Project Milestone #3b | 9 Dec 12:00 | Final Writeup | 15% |
+|
 |   | Ongoing | na | Mini-Presentations | 5% |
-**Homeworks** |
-| 1 | [3](#week-3-18-oct) | 17 Oct 12:00 | Airbus Case Questions     | 0% |
-| 2 | [4](#week-4-25-oct) | 24 Oct 12:00 | Correlation Not Causation | 0% |
-| 3 | [5](#week-5-1-nov) | 31 Oct 12:00 | Experiment                | 0% |
-| 4 | [8](#week-8-22-nov) | 21 Nov 12:00 | Data Industry Trends      | 0% |
-**Project Milestones** |
-| 1 |   [3](#week-3-18-oct) | 18 Oct 12:00 | Ideas |  5% |
-| 2 |   [6](#week-6-8-nov) | 8 Nov 12:00 | Draft | 10% |
-| 3a | [10](#week-10-6-dec) | 6 Dec 12:00 | Final Slides and Presentation | 10% |
-| 3b | [10](#week-10-6-dec) | 9 Dec 12:00 | Final Writeup | 15% |
 
 ## Honor Code
 By taking Business Strategy and Analytics at the UCL School of Management, you are agreeing to maintain a high level of professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the university's code of conduct.
