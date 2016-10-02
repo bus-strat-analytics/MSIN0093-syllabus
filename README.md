@@ -139,7 +139,7 @@ While no books are required for this class, I highly recommend a selection of th
 
 #### Problem Framing
 1. Camillus, J. C. (2008). [Strategy as a Wicked Problem](https://hbr.org/2008/05/strategy-as-a-wicked-problem). Harvard Business Review.
-1. Trufelman, A. (Producer) (2016). [On Average](http://99percentinvisible.org/episode/on-average/) [Audio Podcast].
+1. Trufelman, A. (Producer) (2016). [On Average](http://99percentinvisible.org/episode/on-average/). 99% Invisible. [Audio Podcast].
 
 #### Ethics (Prelude)
 1. Hancock, M. (2016). [Data Science Ethical Framework](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf).
@@ -259,7 +259,7 @@ _Homework #4 (Data Industry Trends) due noon 21 Nov_
 1. Varian, H. R. (2010). [Computer mediated transactions](http://people.ischool.berkeley.edu/~hal/Papers/2010/cmt.pdf). The American Economic Review, 1-10.
 
 #### Analytics: Machine Learning II (Supervised Models)
-1. Roberts, R. (2016). [Susan Athey on Machine Learning, Big Data, and Causation](http://www.econtalk.org/archives/2016/09/susan_athey_on.html) [Audio Podcast].
+1. Roberts, R. (2016). [Susan Athey on Machine Learning, Big Data, and Causation](http://www.econtalk.org/archives/2016/09/susan_athey_on.html). EconTalk. [Audio Podcast].
 1. Shmueli, G. (2010). [To explain or to predict?](http://arxiv.org/pdf/1101.0891.pdf) Statistical Science, 25(3), 289-310.
 1. Varian, H. R. (2014). [Big data: New tricks for econometrics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.3). Journal of Economic Perspectives, 28(2), 3-28.
 
