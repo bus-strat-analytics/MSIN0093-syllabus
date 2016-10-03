@@ -1,6 +1,6 @@
 # Business Strategy and Analytics Syllabus
 
-## Instructor: [Anil Doshi](www.anilrdoshi.com)
+## Instructor: [Anil Doshi](http://www.anilrdoshi.com)
   - Office: 1CW, SW6
   - Office hours: Wednesdays, 12:30pm to 1:55pm. [Email](mailto:anil.doshi@ucl.ac.uk) me for appointments outside office hours.
 
