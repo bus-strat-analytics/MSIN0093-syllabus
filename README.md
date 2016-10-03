@@ -1,12 +1,12 @@
 # Business Strategy and Analytics Syllabus
 
-## Instructor: [Anil Doshi](http://www.mgmt.ucl.ac.uk/people/anildoshi)
+## Instructor: [Anil Doshi](www.anilrdoshi.com)
   - Office: 1CW, SW6
   - Office hours: Wednesdays, 12:30pm to 1:55pm. [Email](mailto:anil.doshi@ucl.ac.uk) me for appointments outside office hours.
 
 ## Course Details
   - [Course description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
-  - UCL Course Number: MSING051
+  - UCL Course Number: MSING051 [(UCL Course Site)](https://moodle.ucl.ac.uk/course/view.php?id=38023)
   - Offered: Fall 2016, Term 1
   - Meeting time: Tuesdays, 12:00pm to 3:00pm
   - Class location: 1CW, Northeast Lecture Theater
@@ -62,7 +62,7 @@ The project will consist of three milestones:
   
   2. **Initial Draft (10%).** Before class on [week 6](#week-6-8-nov), a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during week 6 to discuss progress, questions, problems, etc.
   
-  3. **Final project presentation/slides (10%) and writeup (15%).**  In [week 10](#week-10-6-dec), each team will have the opportunity to present their work to the class and receive verbal and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
+  3. **Final project presentation/slides (10%) and writeup (15%).**  In [week 10](#week-10-6-dec), each team will have the opportunity to present their work to the class and receive verbal and written feedback from students and the teaching team. Presentations will run approximately 20 minutes. The team can then incorporate comments into their final writeup (approximately 5 pages, excluding cover page, references, works cited, etc.), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
 
 Your team may choose one of the three types of projects:
   
@@ -170,7 +170,7 @@ _Homework #1 (Airbus Case Questions) due noon 17 Oct_
 _Project Milestone #1 (Ideas) Due noon 18 Oct (5%) + Meeting (19 Oct - 21 Oct)_
 
 #### Strategy: Inside the Firm
-1. Collis, D. J. and C. A. Montgomery (2008). Competing on Resources. Harvard Business Review. [[Registration Required]](https://hbr.org/2008/07/competing-on-resources)
+1. Collis, D. J. and C. A. Montgomery (2008). Competing on Resources. Harvard Business Review.
 1. Schein, E. H. (1985). Organizational culture and leadership. San Francisco: Jossey. Chapter 1 (pages 1-21).
 
 #### Analytics: Regression
@@ -258,7 +258,8 @@ _Homework #4 (Data Industry Trends) due noon 21 Nov_
 #### Strategy: Data-Based Business Models
 1. Varian, H. R. (2010). [Computer mediated transactions](http://people.ischool.berkeley.edu/~hal/Papers/2010/cmt.pdf). The American Economic Review, 1-10.
 
-#### Analytics: Machine Learning II (Supervised Models)
+#### Analytics: Machine Learning II (Prediction)
+1. Breiman, L. (2001). [Statistical modeling: The two cultures (with comments and a rejoinder by the author)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726). Statistical Science, 16(3), 199-231.
 1. Roberts, R. (2016). [Susan Athey on Machine Learning, Big Data, and Causation](http://www.econtalk.org/archives/2016/09/susan_athey_on.html). EconTalk. [Audio Podcast].
 1. Shmueli, G. (2010). [To explain or to predict?](http://arxiv.org/pdf/1101.0891.pdf) Statistical Science, 25(3), 289-310.
 1. Varian, H. R. (2014). [Big data: New tricks for econometrics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.3). Journal of Economic Perspectives, 28(2), 3-28.
