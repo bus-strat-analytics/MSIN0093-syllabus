@@ -128,17 +128,17 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [Reddit Comment Datasets](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
 
   1. Social discussions
-  [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
-  [Quora Dataset Question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+    - [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
+    - [Quora Dataset Question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
   1. Government data
-  [US Government](https://www.data.gov)
-  [UK Government](https://data.gov.uk)
-  [London Datastore](http://data.london.gov.uk)
+    - [US Government](https://www.data.gov)
+    - [UK Government](https://data.gov.uk)
+    - [London Datastore](http://data.london.gov.uk)
 
   1. Data websites
-  [Data World](https://data.world)
-  [DBPedia](http://wiki.dbpedia.org)
+    - [Data World](https://data.world)
+    - [DBPedia](http://wiki.dbpedia.org)
 
 ## Recommended Books
 While no books are required for this class, I highly recommend a selection of the following books to complement what you will see during the term. Some pairs of books are marked for (a) introductory or (b) more advanced treatment of the subject. You probably do not need both.
