@@ -70,7 +70,7 @@ Your team may choose one of the three types of projects:
   
   1. **Data-based business proposal.** You are an entrepreneurial team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this course relate to the value hypothesis of your startup.
   
-  1. **Industry report.** You are members of a consulting team being retained to report how data and analytics are transforming a specific industry. You will identify the industry and describe how data might transform it. You will also discuss how existing firms in the industry can best respond to the transformation as well as what new entrants with a "data-first" culture might look like. Ideally, your chosen industry is understudied in existing public forums.
+  1. **Company/Industry report.** You are members of a consulting team being retained to report how data and analytics are transforming a specific company or industry. You will identify the subject of study and describe how data might transform it. For a company study, the study can look at the creation of a data team, the impact on management or culture, among other topics. For an industry study, students will also discuss how existing firms in the industry can best respond to the transformation as well as what new entrants with a "data-first" culture might look like. Ideally, your chosen industry is understudied in existing public forums.
 
 ### Summary of Submission Deadlines
 For your convenience, a summary of all deadlines is posted below. These deadlines are also listed by week in the [Schedule and Reading List](#schedule-and-reading-list).
