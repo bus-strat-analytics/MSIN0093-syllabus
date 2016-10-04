@@ -110,6 +110,36 @@ If you intend on using a programming language to produce your work, I highly sug
 - [Model Analytics Python Tutorial](https://community.modeanalytics.com/python/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
+## Sources of Data
+There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a list of list of repositories, here are a few places to hunt to find interesting dataset for projects:
+
+  1. Repositories
+    - [KD Nuggets List](http://www.kdnuggets.com/datasets/index.html)
+    - [Kaggle Data Sets](https://www.kaggle.com/datasets)
+    - [Github Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
+    - [Open Data Science I](https://github.com/datasciencemasters/data)
+    - [Open Data Science II](https://github.com/datasciencemasters/go/blob/master/datasets.md)
+    - [MSFT Research Open Data sets](https://www.microsoft.com/en-us/research/academic-program/data-science-at-microsoft-research/)
+    - [AWS Datasets](https://aws.amazon.com/datasets/)
+    - [UCI Repository](http://archive.ics.uci.edu/ml/datasets.html)
+
+  1. Interesting datasets
+    - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
+    - [Reddit Comment Datasets](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
+
+  1. Social discussions
+  [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
+  [Quora Dataset Question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+
+  1. Government data
+  [US Government](https://www.data.gov)
+  [UK Government](https://data.gov.uk)
+  [London Datastore](http://data.london.gov.uk)
+
+  1. Data websites
+  [Data World](https://data.world)
+  [DBPedia](http://wiki.dbpedia.org)
+
 ## Recommended Books
 While no books are required for this class, I highly recommend a selection of the following books to complement what you will see during the term. Some pairs of books are marked for (a) introductory or (b) more advanced treatment of the subject. You probably do not need both.
 
