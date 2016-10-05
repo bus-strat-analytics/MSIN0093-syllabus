@@ -111,16 +111,16 @@ If you intend on using a programming language to produce your work, I highly sug
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ## Sources of Data
-There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a list of list of repositories, here are a few places to hunt to find interesting dataset for projects:
+There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a list of list of repositories, here are a few places to go for interesting datasets for projects:
 
   1. Repositories
-    - [KD Nuggets List](http://www.kdnuggets.com/datasets/index.html)
-    - [Kaggle Data Sets](https://www.kaggle.com/datasets)
+    - [AWS Datasets](https://aws.amazon.com/datasets/)
     - [Github Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
+    - [Kaggle Data Sets](https://www.kaggle.com/datasets)
+    - [KD Nuggets List](http://www.kdnuggets.com/datasets/index.html)
+    - [MSFT Research Open Data sets](https://www.microsoft.com/en-us/research/academic-program/data-science-at-microsoft-research/)
     - [Open Data Science I](https://github.com/datasciencemasters/data)
     - [Open Data Science II](https://github.com/datasciencemasters/go/blob/master/datasets.md)
-    - [MSFT Research Open Data sets](https://www.microsoft.com/en-us/research/academic-program/data-science-at-microsoft-research/)
-    - [AWS Datasets](https://aws.amazon.com/datasets/)
     - [UCI Repository](http://archive.ics.uci.edu/ml/datasets.html)
 
   1. Interesting datasets
@@ -132,9 +132,9 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [Quora Dataset Question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
   1. Government data
-    - [US Government](https://www.data.gov)
-    - [UK Government](https://data.gov.uk)
     - [London Datastore](http://data.london.gov.uk)
+    - [UK Government](https://data.gov.uk)
+    - [US Government](https://www.data.gov)
 
   1. Data websites
     - [Data World](https://data.world)
@@ -185,13 +185,13 @@ _Assessment #1 (Visualization Slides) due noon 10 Oct (10%)_
 1. Case: Yoffie, D. B. and Renee Kim. (2010) Cola Wars Continue: Coke And Pepsi In 2010 (HBS Case 711-462)
 1. Porter, M. E. (1983). Note on the Structural Analysis of Companies. (HBS Case 376-054)
 
-#### Analytics: Visualization, Machine Learning I (Unsupervised Models)
+#### Analytics: Summarization and Visualization
 1. Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel. [OpenIntro Statsistics](https://www.openintro.org/stat/textbook.php). Sections 1.6-1.7. (Primer on data summarization and probability. Review only if you need to brush up on these topics.)
-1. Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press. Chapter 10.
-1. Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press. Chapter 7.
+1. Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press. Chapters 5-7.
 1. James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer. Chapter 10. Briefly review for a broad overview of the topic.
 
 ##### Optional
+- Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press. Chapter 10.
 - Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer. Chapter 14.
 
 ### Week 3. 18 Oct
@@ -257,7 +257,6 @@ _Project Milestone #2 (Draft) due noon 7 Nov (10%) + Meeting (8 Nov - 10 Nov)_
 - Azoulay, P., Stuart, T., & Wang, Y. (2014). Matthew: Effect or fable? Management Science, 60(1), 92-109. [[Prior Version]](http://pazoulay.scripts.mit.edu/docs/matthew.pdf) (Coarsened Exact Matching)
 - Galasso, A. & Simcoe, T. S. (2011). CEO overconfidence and innovation. Management Science, 57(8), 1469-1484. [[Prior Version]](http://www.nber.org/papers/w16041.pdf) (Fixed Effects)
 - Nagaraj, A. (2016). The Private Impact of Public Maps: Landsat Satellite Imagery and Gold Exploration. Working Paper. (Difference in Differences) [[UCL Moodle]](https://moodle.ucl.ac.uk/pluginfile.php/3636959/mod_resource/content/3/nagaraj_landsat.pdf)
-- King, G., Lucas, & Nielsen, R. A. (2016). The balance-sample size frontier in matching methods for causal inference. American Journal of Political Science, 1-17. [[Prior Version]](http://gking.harvard.edu/files/gking/files/frontier_2.pdf) (New Matching Techniques)
 
 ### Week 7. 15 Nov
 _Assessment #2 (Econometric Methods Slides) due noon 14 Nov (20%)_
