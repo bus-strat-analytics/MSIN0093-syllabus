@@ -54,7 +54,7 @@ Individual coursework consists of two components: assignments and mini-presentat
   2. **Mini-presentations (5%).** Students will be selected for in-class presentations of these submissions. The presentation will run for approximately five minutes. Each student will present at least once, and ideally three to five times during the course.
 
 ### Team project (40%)
-Over the term, students will produce a culminating project. Teams will consist of four to five students.
+Over the term, students will produce a culminating project. Teams will consist of four to six students.
 
 The project will consist of three milestones:
   
