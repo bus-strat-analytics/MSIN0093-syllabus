@@ -81,9 +81,9 @@ For your convenience, a summary of all deadlines is posted below. These deadline
 | [3](#week-3-18-oct)  | Homework #1           | 17 Oct 12:00 | Airbus Case Questions     | 0% |
 | [3](#week-3-18-oct)  | Project Milestone #1  | 18 Oct 12:00 | Ideas |  5% |
 | [4](#week-4-25-oct)  | Homework #2           | 24 Oct 12:00 | Correlation Not Causation | 0% |
-| [5](#week-5-1-nov)   | Homework #3           | 31 Oct 12:00 | Experiment                | 0% |
+| [5](#week-5-1-nov)   | Assessment #2           | 31 Oct 12:00 | Experiment                | 20% |
 | [6](#week-6-8-nov)   | Project Milestone #2  | 8 Nov 12:00 | Draft | 10% |
-| [7](#week-7-15-nov)  | Assessment #2         | 14 Nov 12:00 | Econometric Methods Slides | 20% |
+| [7](#week-7-15-nov)  | Homework #3         | 14 Nov 12:00 | Econometric Methods Slides | 0% |
 | [8](#week-8-22-nov)  | Homework #4           | 21 Nov 12:00 | Data Industry Trends      | 0% |
 | [9](#week-9-29-nov)  | Assessment #3         | 28 Nov 12:00 | Ethics Debate Writeup | 25% |
 | [10](#week-10-6-dec) | Project Milestone #3a | 6 Dec 12:00 | Final Slides and Presentation | 10% |
@@ -216,14 +216,14 @@ _Homework #2 (Correlation Not Causation) due noon 24 Oct_
 
 #### Strategy: Dynamics I
 1. Simulation: Casadesus-Masanell, R. Strategy Simulation: Competitive Dynamics and Wintel V2. (HBS Simulation) (Read User Guide)
-1. Cabral, L. M. B. (2000). Introduction to Industrial Organization. Cambridge: MIT Press. Chapter 8.
+1. Cabral, L. M. B. (2000). Introduction to Industrial Organization. Cambridge: MIT Press. Chapter 7.
 
 #### Analytics: Causal Modeling I (From Correlation to Causation)
 1. Pearl, J. (2009). Causal inference in statistics: An overview. Statistics Surveys, 3, 96-146. [[Article]](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 1. Wikipedia. [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation).
 
 ### Week 5. 1 Nov
-_Homework #3 (Experiment) due noon 31 Oct_
+_Assessment #2 (Experiment) due noon 31 Oct_
 
 #### Strategy: Dynamics II
 1. Case: Walker, R., Jeffery, M., So, L., Sriram, S., Nathanson, J., Ferreira, J., Feldmeier, J. (2010). Netflix Leading with Data: The Emergence of Data-Driven Video (Kellogg Case)
@@ -259,7 +259,7 @@ _Project Milestone #2 (Draft) due noon 7 Nov (10%) + Meeting (8 Nov - 10 Nov)_
 - Nagaraj, A. (2016). The Private Impact of Public Maps: Landsat Satellite Imagery and Gold Exploration. Working Paper. (Difference in Differences) [[UCL Moodle]](https://moodle.ucl.ac.uk/pluginfile.php/3636959/mod_resource/content/3/nagaraj_landsat.pdf)
 
 ### Week 7. 15 Nov
-_Assessment #2 (Econometric Methods Slides) due noon 14 Nov (20%)_
+_Homework #3 (Econometric Methods Slides) due noon 14 Nov (20%)_
 
 #### Strategy: Multi-Sided Platforms
 1. Case: Yoffie, D. B. and L. Kind. "LinkedIn Corporation, 2012" (HBS Case)
