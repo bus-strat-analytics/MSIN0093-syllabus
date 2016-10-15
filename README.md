@@ -205,7 +205,7 @@ _Project Milestone #1 (Ideas) Due noon 18 Oct (5%) + Meeting (19 Oct - 21 Oct)_
 
 #### Analytics: Regression
 1. Case: Schmidt, W. (2016). Airbus A380 — A Model for Disruption (Cornell Case).
-1. Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel. [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (3rd ed). Chapters 4-7. (If necessary, review to be familiar with the foundations of statistical inference and regression.)
+1. Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel. [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (3rd ed). Chapters 4-7, 8 (8.1-8.3). (If necessary, review to be familiar with the foundations of statistical inference, univariate, and multivariate regression.)
 
 ##### Optional
 - Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99-120. [[Article]](https://business.illinois.edu/josephm/BA545_Fall%202011/S10/Barney%20(1991).pdf)
