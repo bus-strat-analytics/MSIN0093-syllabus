@@ -204,8 +204,8 @@ _Project Milestone #1 (Ideas) Due noon 18 Oct (5%) + Meeting (19 Oct - 21 Oct)_
 1. Schein, E. H. (1985). Organizational culture and leadership. San Francisco: Jossey. Chapter 1 (pages 1-21).
 
 #### Analytics: Regression
-1. Case: Schmidt, W. (2016). Airbus A380 — A Model for Disruption (Cornell Case).
 1. Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel. [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (3rd ed). Chapters 4-7, 8 (8.1-8.3). (If necessary, review to be familiar with the foundations of statistical inference, univariate, and multivariate regression.)
+1. Case: Schmidt, W. (2016). Airbus A380 — A Model for Disruption (Cornell Case).
 
 ##### Optional
 - Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99-120. [[Article]](https://business.illinois.edu/josephm/BA545_Fall%202011/S10/Barney%20(1991).pdf)
@@ -231,6 +231,7 @@ _Assessment #2 (Experiment) due noon 31 Oct_
 1. Bresnahan, T. F., Greenstein, S., & Henderson, R. M. (2012). [Schumpeterian competition and diseconomies of scope: Illustrations from the histories of Microsoft and IBM](http://www.nber.org/chapters/c12354.pdf). In J. Lerner & S. Stern (Eds.), The rate and direction of inventive activity revisited. (pp. 203-71). University of Chicago Press.
 
 #### Analytics: Causal Modeling II (Randomized Controlled Trials)
+1. Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel. [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) (3rd ed). Sections 5.3, 5.4, 6.2. (If necessary, review to be familiar with the hypothesis testing differences in means and proportions.)
 1. Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press. Chapter 1.
 1. Kohavi, R., Longbotham, R., Sommerfield, D., & Henne, R. M. (2009). [Controlled experiments on the web: Survey and practical guide](http://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf). Data Mining and Knowledge Discovery, 18(1), 140-181. (Focus on Sections 1-3, 6.)
 
