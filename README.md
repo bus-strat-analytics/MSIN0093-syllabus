@@ -51,7 +51,7 @@ Individual coursework consists of two components: assignments and mini-presentat
 
   For the slides assignments, if there is a need for additional exposition on to support the content on the slide, then add a _short_ commentary to the presenter notes and submit the slides with the presenter notes.
 
-  2. **Mini-presentations (5%).** Students will be selected for in-class presentations of these submissions. The presentation will run for approximately five minutes. Each student will present at least once, and ideally three to five times during the course.
+  2. **Mini-presentations (5%).** Students will be selected for in-class presentations of these submissions. The presentation will run for approximately five minutes.
 
 ### Team project (40%)
 Over the term, students will produce a culminating project. Teams will consist of four to six students.
@@ -77,19 +77,17 @@ For your convenience, a summary of all deadlines is posted below. These deadline
 
 | Week | Assignment # | Deadline | Description | Weight |
 | -----: | ---: | -------: | :---------- | -----: |
-| [2](#week-2-11-oct)  | Assessment #1         | 10 Oct 12:00 | Visualizaiton Slides | 10% |
-| [3](#week-3-18-oct)  | Homework #1           | 17 Oct 12:00 | Airbus Case Questions     | 0% |
-| [3](#week-3-18-oct)  | Project Milestone #1  | 18 Oct 12:00 | Ideas |  5% |
-| [4](#week-4-25-oct)  | Homework #2           | 24 Oct 12:00 | Correlation Not Causation | 0% |
-| [5](#week-5-1-nov)   | Assessment #2           | 31 Oct 12:00 | Experiment                | 20% |
-| [6](#week-6-8-nov)   | Project Milestone #2  | 8 Nov 12:00 | Draft | 10% |
-| [7](#week-7-15-nov)  | Homework #3         | 14 Nov 12:00 | Econometric Methods Slides | 0% |
-| [8](#week-8-22-nov)  | Homework #4           | 21 Nov 12:00 | Data Industry Trends      | 0% |
-| [9](#week-9-29-nov)  | Assessment #3         | 28 Nov 12:00 | Ethics Debate Writeup | 25% |
-| [10](#week-10-6-dec) | Project Milestone #3a | 6 Dec 12:00 | Final Slides and Presentation | 10% |
-| [10](#week-10-6-dec) | Project Milestone #3b | 9 Dec 12:00 | Final Writeup | 15% |
+| [2](#week-2-11-oct)  | Assessment #1         | 10 Oct 12:00 | Visualizaiton Slides          | 10% |
+| [3](#week-3-18-oct)  | Homework #1           | 17 Oct 12:00 | Airbus Case Questions         |  0% |
+| [3](#week-3-18-oct)  | Project Milestone #1  | 18 Oct 12:00 | Ideas                         |  5% |
+| [5](#week-5-1-nov)   | Assessment #2         | 31 Oct 12:00 | Experiment                    | 20% |
+| [6](#week-6-8-nov)   | Project Milestone #2  | 8 Nov 12:00  | Draft                         | 10% |
+| [8](#week-8-22-nov)  | Assessment #3         | 21 Nov 12:00 | Ethics Debate Writeup         | 25% |
+| [9](#week-9-29-nov)  | Homework #2           | 28 Nov 12:00 | Data Industry Trends          |  0% |
+| [10](#week-10-6-dec) | Project Milestone #3a | 6 Dec 12:00  | Final Slides and Presentation | 10% |
+| [10](#week-10-6-dec) | Project Milestone #3b | 9 Dec 12:00  | Final Writeup                 | 15% |
 |
-|   | Ongoing | na | Mini-Presentations | 5% |
+|                      | Ongoing               | na           | Mini-Presentations            | 5% |
 
 ## Honor Code
 By taking Business Strategy and Analytics at the UCL School of Management, you are agreeing to maintain a high level of professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the university's code of conduct.
@@ -212,8 +210,6 @@ _Project Milestone #1 (Ideas) Due noon 18 Oct (5%) + Meeting (19 Oct - 21 Oct)_
 - Peteraf, M. A. (1993). The cornerstones of competitive advantage: A resource-based view. Strategic Management Journal, 14(3), 179-191. [[Article]](https://faculty.fuqua.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%201/Peteraf.pdf)
 
 ### Week 4. 25 Oct
-_Homework #2 (Correlation Not Causation) due noon 24 Oct_
-
 #### Strategy: Dynamics I
 1. Simulation: Casadesus-Masanell, R. Strategy Simulation: Competitive Dynamics and Wintel V2. (HBS Simulation) (Read User Guide)
 1. Cabral, L. M. B. (2000). Introduction to Industrial Organization. Cambridge: MIT Press. Chapter 7.
@@ -260,8 +256,6 @@ _Project Milestone #2 (Draft) due noon 7 Nov (10%) + Meeting (8 Nov - 10 Nov)_
 - Nagaraj, A. (2016). The Private Impact of Public Maps: Landsat Satellite Imagery and Gold Exploration. Working Paper. (Difference in Differences) [[UCL Moodle]](https://moodle.ucl.ac.uk/pluginfile.php/3636959/mod_resource/content/3/nagaraj_landsat.pdf)
 
 ### Week 7. 15 Nov
-_Homework #3 (Econometric Methods Slides) due noon 14 Nov (20%)_
-
 #### Strategy: Multi-Sided Platforms
 1. Case: Yoffie, D. B. and L. Kind. "LinkedIn Corporation, 2012" (HBS Case)
 1. Eisenmann, T. R., G. Parker, and M. W. Van Alystne (2006). Strategies for Two-Sided Markets. Harvard Business Review. [[Registration Required]](https://hbr.org/2006/10/strategies-for-two-sided-markets#)
@@ -283,7 +277,18 @@ _Homework #3 (Econometric Methods Slides) due noon 14 Nov (20%)_
 - Tabakovic, H. and T. Wollmann. (2016). [The Impact of Money on Science: Evidence from Unexpected NCAA Football Outcomes](http://faculty.chicagobooth.edu/thomas.wollmann/docs/Impact_of_Money_on_Science_Tabakovic_Wollmann.pdf) (Instrumental Variables)
 
 ### Week 8. 22 Nov
-_Homework #4 (Data Industry Trends) due noon 21 Nov_
+_Assessment #3 (Ethics Debate Writeup) due noon 21 Nov (25%)_
+
+#### Strategy: Security and Ethics
+1. Data Science Association. [Data Science Code of Professional Conduct](http://www.datascienceassn.org/code-of-conduct.html).
+1. Duhigg, C. (2012). [How Companies Learn Your Secrets](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all&_r=0). New York Times.
+1. Goel, V. (2014). [As Data Overflows Online, Researchers Grapple with Ethics](http://www.nytimes.com/2014/08/13/technology/the-boon-of-online-data-puts-social-science-in-a-quandary.html?_r=0). New York Times.
+1. Miller, C. C. (2015). [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html?_r=0). New York Times.
+1. O'Neil, C. (2016). [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html). Slate.
+1. Richards, N. M. & King (2014). Big data ethics. Wake Forest Law Review, 46, 393-432. [[Article]](http://pacscenter.stanford.edu/sites/all/files/RIchards%20and%20King%20Ethics.pdf) (Read Part II, Skim the rest.)
+
+### Week 9. 29 Nov
+_Homework #4 (Data Industry Trends) due noon 28 Nov_
 
 #### Strategy: Data-Based Business Models
 1. Varian, H. R. (2010). [Computer mediated transactions](http://people.ischool.berkeley.edu/~hal/Papers/2010/cmt.pdf). The American Economic Review, 1-10.
@@ -293,17 +298,6 @@ _Homework #4 (Data Industry Trends) due noon 21 Nov_
 1. Roberts, R. (2016). [Susan Athey on Machine Learning, Big Data, and Causation](http://www.econtalk.org/archives/2016/09/susan_athey_on.html). EconTalk. [Audio Podcast].
 1. Shmueli, G. (2010). [To explain or to predict?](http://arxiv.org/pdf/1101.0891.pdf) Statistical Science, 25(3), 289-310.
 1. Varian, H. R. (2014). [Big data: New tricks for econometrics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.3). Journal of Economic Perspectives, 28(2), 3-28.
-
-### Week 9. 29 Nov
-_Assessment #3 (Ethics Debate Writeup) due noon 28 Nov (25%)_
-
-#### Strategy: Security and Ethics
-1. Data Science Association. [Data Science Code of Professional Conduct](http://www.datascienceassn.org/code-of-conduct.html).
-1. Duhigg, C. (2012). [How Companies Learn Your Secrets](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all&_r=0). New York Times.
-1. Goel, V. (2014). [As Data Overflows Online, Researchers Grapple with Ethics](http://www.nytimes.com/2014/08/13/technology/the-boon-of-online-data-puts-social-science-in-a-quandary.html?_r=0). New York Times.
-1. Miller, C. C. (2015). [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html?_r=0). New York Times.
-1. O'Neil, C. (2016). [The Ethical Data Scientist](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_bring_better_ethics_to_data_science.html). Slate.
-1. Richards, N. M. & King (2014). Big data ethics. Wake Forest Law Review, 46, 393-432. [[Article]](http://pacscenter.stanford.edu/sites/all/files/RIchards%20and%20King%20Ethics.pdf) (Read Part II, Skim the rest.)
 
 #### Analytics: Misc Data Topics
 #### Course Wrap Up
