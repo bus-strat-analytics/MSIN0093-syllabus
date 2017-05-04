@@ -15,21 +15,21 @@
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
   
-  1. **Class decorum.** Treat our time in the classroom as you would meeting with the executive team or board of directors of your company. This means listening to and respecting the perspectives of your peers. It also means speaking up and disagreeing when you have a different opinion.
+  2. **Class decorum.** Treat our time in the classroom as you would meeting with the executive team or board of directors of your company. This means listening to and respecting the perspectives of your peers. It also means speaking up and disagreeing when you have a different opinion.
 
   In line with the classroom as a boardroom theme (and in keeping with school rules), I ask you to refrain from bringing food or drinks (water bottles are OK) into the class. I suggest eating lunch a bit before class and then eating a snack during the break.
   
-  1. **Participation.** This course depends on the participation of all the students. Active engagement promotes a more lively discussion and debate. It is in the exchange of ideas that new and interesting ways of thinking about the concepts in the course emerge.
+  3. **Participation.** This course depends on the participation of all the students. Active engagement promotes a more lively discussion and debate. It is in the exchange of ideas that new and interesting ways of thinking about the concepts in the course emerge.
 
   With that in mind, I will cold call in class. I understand that some people may find public speaking challenging for a variety of reasons. If this is the case, please see me.
 
-  1. **Technology.** Active engagement by all students is a critical part of this module. As a result, the default rule is for all laptops, tablets, phones, etc. to be muted and off the desk. Moreover, recording classroom lectures or discussion is not allowed.
+  4. **Technology.** Active engagement by all students is a critical part of this module. As a result, the default rule is for all laptops, tablets, phones, etc. to be muted and off the desk. Moreover, recording classroom lectures or discussion is not allowed.
 
   If you have circumstances that require an exception to this rule, please discuss with me.
 
   If any devices are required for part of a class, I will let you know ahead of time.
 
-  1. **Class Norms.** I would like to make explicit some norms that I hope are wholly embraced in the classroom.
+  5. **Class Norms.** I would like to make explicit some norms that I hope are wholly embraced in the classroom.
     - Arrive to class on time and prepared to contribute
     - Take risks with your ideas
     - Speak in class if you have a question
@@ -37,7 +37,7 @@
     - Speak up if you disagree
     - And finally, do NOT wait until you have the *perfect* comment to raise your hand and speak in class
 
-  1. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please let me know before class begins that you have a guest. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers in the class.
+  6. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please let me know before class begins that you have a guest. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers in the class.
 
 ## Assessment
 Assessment will be based on a series of individual assignments and a team project.
@@ -68,9 +68,9 @@ Your team may choose one of the three types of projects:
   
   1. **Data project.** You are the data team of your firm and you are presenting a research project to the executive team as a means for better understanding customers, transactions, relationships between various activities of users, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on research agenda).
   
-  1. **Data-based business proposal.** You are an entrepreneurial team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this course relate to the value hypothesis of your startup.
+  2. **Data-based business proposal.** You are an entrepreneurial team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this course relate to the value hypothesis of your startup.
   
-  1. **Company/Industry report.** You are members of a consulting team being retained to report how data and analytics are transforming a specific company or industry. You will identify the subject of study and describe how data might transform it. For a company study, the study can look at the creation of a data team, the impact on management or culture, among other topics. For an industry study, students will also discuss how existing firms in the industry can best respond to the transformation as well as what new entrants with a "data-first" culture might look like. Ideally, your chosen industry is understudied in existing public forums.
+  3. **Company/Industry report.** You are members of a consulting team being retained to report how data and analytics are transforming a specific company or industry. You will identify the subject of study and describe how data might transform it. For a company study, the study can look at the creation of a data team, the impact on management or culture, among other topics. For an industry study, students will also discuss how existing firms in the industry can best respond to the transformation as well as what new entrants with a "data-first" culture might look like. Ideally, your chosen industry is understudied in existing public forums.
 
 ### Summary of Submission Deadlines
 For your convenience, a summary of all deadlines is posted below. These deadlines are also listed by week in the [Schedule and Reading List](#schedule-and-reading-list).
@@ -120,21 +120,24 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [Open Data Science I](https://github.com/datasciencemasters/data)
     - [Open Data Science II](https://github.com/datasciencemasters/go/blob/master/datasets.md)
     - [UCI Repository](http://archive.ics.uci.edu/ml/datasets.html)
+    - [Stanford Large Network Dataset Collection](http://memetracker.org/data/index.html)
 
-  1. Interesting datasets
+  2. Interesting datasets
+    - [Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
     - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
     - [Reddit Comment Datasets](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
+    - [GDELT global news dataset](http://gdeltproject.org)
 
-  1. Social discussions
+  3. Social discussions
     - [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
     - [Quora Dataset Question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
-  1. Government data
+  4. Government data
     - [London Datastore](http://data.london.gov.uk)
     - [UK Government](https://data.gov.uk)
     - [US Government](https://www.data.gov)
 
-  1. Data websites
+  5. Data websites
     - [Data World](https://data.world)
     - [DBPedia](http://wiki.dbpedia.org)
 
@@ -146,16 +149,16 @@ While no books are required for this class, I highly recommend a selection of th
     - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
     - Varian, H. R. and C. Shapiro (1998). Information Rules. Cambridge: Harvard Business School Press.
 
-  1. **Visualization**
+  2. **Visualization**
     - Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press.
     - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
 
-  1. **Econometrics**
+  3. **Econometrics**
     - (a) Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press.
     - (b) Angrist, J.D. and J. Pischke. (2009). Mostly Harmless Econometrics. Princeton: Princeton University Press.
     - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
 
-  1. **Machine Learning**
+  4. **Machine Learning**
     - (a) James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer.
     - (b) Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer.
 
@@ -288,7 +291,7 @@ _Assessment #3 (Ethics Debate Writeup) due noon 21 Nov (25%)_
 1. Richards, N. M. & King (2014). Big data ethics. Wake Forest Law Review, 46, 393-432. [[Article]](http://pacscenter.stanford.edu/sites/all/files/RIchards%20and%20King%20Ethics.pdf) (Read Part II, Skim the rest.)
 
 ### Week 9. 29 Nov
-_Homework #4 (Data Industry Trends) due noon 28 Nov_
+_Homework #2 (Data Industry Trends) due noon 28 Nov_
 
 #### Strategy: Data-Based Business Models
 1. Varian, H. R. (2010). [Computer mediated transactions](http://people.ischool.berkeley.edu/~hal/Papers/2010/cmt.pdf). The American Economic Review, 1-10.
