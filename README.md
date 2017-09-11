@@ -226,8 +226,8 @@ _Team Milestone #1 (Ideas) Due 17 Oct + Meeting (17 Oct - 20 Oct)_
 - Fowler, S. (2017). [Reflecting on One Very Strange Year at Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber). Susan J. Fowler personal blog.
 - Albarran, T. and Holder, E. (2017). [Covington Report on Uber](https://drive.google.com/file/d/0B1s08BdVqCgrUVM4UHBpTGROLXM/view).
 - Swisher, K. (2017). [Uber has Hired HBS's Frances Frei as a top Leadership and Strategy Exec to Fix its Management Mess](https://www.recode.net/2017/6/5/15741982/uber-hires-hbs-frances-frei-leadership-strategy-exec-fix-management-mess). Recode.
-- Kantor, J. (2017). [Harvard Business School Case Study: Gender Equity](http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?_r=1&hp&). The New York Times.
-- Roberts, R. (2016). [Susan Athey on Machine Learning, Big Data, and Causation](http://www.econtalk.org/archives/2016/09/susan_athey_on.html). EconTalk. [Audio Podcast].
+- Kantor, J. (2017). [Harvard Business School Case Study: Gender Equity](http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?_r=1&hp&). The New York Times. <!-- make this mandatory???  -->
+- Roberts, R. (2016). [Susan Athey on Machine Learning, Big Data, and Causation](http://www.econtalk.org/archives/2016/09/susan_athey_on.html). EconTalk. [Podcast].
 - Breiman, L. (2001). [Statistical modeling: The two cultures (with comments and a rejoinder by the author)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726). Statistical Science, 16(3), 199-231.
 
 ### Week 4
@@ -298,14 +298,19 @@ _Assignment #2 due 21 Nov_
 _Assessment #3 due 28 Nov_
 
 ##### Ethics
-1. Data Science Association. [Data Science Code of Professional Conduct](http://www.datascienceassn.org/code-of-conduct.html).
-1. Duhigg, C. (2012). [How Companies Learn Your Secrets](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all&_r=0). New York Times.
-1. Goel, V. (2014). [As Data Overflows Online, Researchers Grapple with Ethics](http://www.nytimes.com/2014/08/13/technology/the-boon-of-online-data-puts-social-science-in-a-quandary.html?_r=0). New York Times.
-1. Miller, C. C. (2015). [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html?_r=0). New York Times.
 1. Richards, N. M. & King (2014). Big data ethics. Wake Forest Law Review, 46, 393-432. [[Article]](http://pacscenter.stanford.edu/sites/all/files/RIchards%20and%20King%20Ethics.pdf) (Read Part II, Skim the rest.)
+1. Angwin, J., Larson, J., Mattu, S., Kirchner, L. (2016). [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). ProPublica.
+1. Lanchester, J. (2017). [You Are the Product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product). London Review of Books.
+<!-- Who owns data? -->
+<!-- Uber is an illegal company -->
+<!-- ML cannot escape the inherent human biases, because data will always be produced and collected by humans with bias -->
 
 ##### Additional Reading
-1. Hancock, M. (2016). [Data Science Ethical Framework](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf).
+- Duhigg, C. (2012). How Companies Learn Your Secrets. New York Times. [[Paywall]](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all&_r=0)
+- Miller, C. C. (2015). [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html?_r=0). New York Times.
+- Data Science Association. [Data Science Code of Professional Conduct](http://www.datascienceassn.org/code-of-conduct.html).
+- Hancock, M. (2016). [Data Science Ethical Framework](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf).
+- Goel, V. (2014). [As Data Overflows Online, Researchers Grapple with Ethics](http://www.nytimes.com/2014/08/13/technology/the-boon-of-online-data-puts-social-science-in-a-quandary.html?_r=0). New York Times.
 
 ### Week 9
 
@@ -313,7 +318,7 @@ _Assessment #3 due 28 Nov_
 1. Varian, H. R. (2010). [Computer mediated transactions](http://people.ischool.berkeley.edu/~hal/Papers/2010/cmt.pdf). The American Economic Review, 1-10.
 
 ##### Analytics: Quasi-Experiments
-1. Varian, H. R. (2015). [Causal inference in social science: An elementary introduction](http://people.ischool.berkeley.edu/~hal/Papers/2015/cause03.pdf). Working Paper. (Sections 1-7) (Natural experiments, Instrumental Variables, Regression Discontinuity)
+1. Varian, H. R. (2015). [Causal inference in social science: An elementary introduction](http://people.ischool.berkeley.edu/~hal/Papers/2015/cause03.pdf). Working Paper.
 
 ##### Course Wrap Up
 
