@@ -6,13 +6,12 @@
 
 ## Course Details
   - [Course description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
-  - UCL Course Number: MSING051 ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023))
   - Offered: Fall 2017, Term 1
   - Location: 1CW, Northeast Lecture Theater
-### Section 1
+### Section 1: MSING051 ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023))
   - Time: Tuesdays, 8:30am to 11:30am
   - TA: [Andrew Montandon](mailto:a.montandon@ucl.ac.uk), Office Hours: [TBD], 1CW, [location TBD]
-### Section 2
+### Section 2: MSINM051<!--  ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023)) -->
   - Time: Tuesdays, 12:00pm to 3:00pm
   - TA: [Yasaman Soltan Zadeh](mailto:y.soltan-zadeh@ucl.ac.uk), Office Hours: Tuesdays, [TBD], 1CW, [location TBD]
 
@@ -33,11 +32,11 @@
       - Speak in class if you have a question
       - Embrace failure and the iterative nature of learning and discovery
       - Speak up if you disagree
-      - And finally, do NOT wait until you have the *perfect* comment to raise your hand and speak in class
+      - And finally, *do not* wait until you have *the perfect* comment to raise your hand and speak in class
 
   5. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please let me know before class begins that you have a guest. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers in the class.
 
-  6. **Food and Drink.** In line with the UCL School of Management norms, I ask you to refrain from bringing food or drinks (water bottles are OK) into the class.
+  6. **Food and Drink.** In line with the UCL School of Management norms, please refrain from bringing food or drinks (water bottles are OK) into the class.
   
 ## Assessment
 Assessment is based on class participation, a series of individual assignments, and a team project. The deadlines and weights of each assignment are summarized in the [schedule](#schedule).
@@ -47,7 +46,7 @@ Class participation takes place both inside and outside the classroom.
 
   1. **In-class participation.** This course depends on the participation of all the students. Active engagement promotes a more lively discussion and debate. It is in the exchange of ideas that new and interesting ways of thinking about the concepts in the course emerge. The level and quality of your participation will be part of your assessment.
   
-  During some classes, students will be "warm" called to help spur discussion. Students whose names are on the board in the beginning of class have been warm called and will be asked to participate in the discussion at certain points.
+  During some classes, students will be "warm" called to help spur discussion. Students whose names are on the board in the beginning of class are on notice and will be asked to participate in the discussion at certain points.
 
   2. **Outside the classroom.** Part of your class participation assessment will be your engagement with the material outside the class. Topics we discuss in class are being discussed and debated right now, all the time. To bring emerging issues and events into the classroom sphere, and to apply what we learn in the class to other cases, students are asked to engage with the material on two media: Twitter and Medium.
   
@@ -60,18 +59,16 @@ There will be two kinds of individual assignments: shorter, check-in style exerc
 
   2. **Assignments (45%).** Individual assessed assignments will consist of three written submissions and will due be at 10:00am on the day of class.
 
-<!--   Students are allowed to work in pairs and submit a single assignment. However, you may only work with the same partner for one assignment and your partner cannot be in the same track as you (i.e. one CS student and one Management student).
-
-  If the assignment calls for the submission of presentation slides and there is a need for additional exposition, then please add a _short_ commentary to the presenter notes and submit the slides with the presenter notes. -->
+  If the assignment calls for the submission of presentation slides and there is a need for additional exposition, then please add a _short_ commentary to the presenter notes and submit the slides with the presenter notes.
 
 ### Team project (30%)
 Over the term, students will produce a culminating project. Teams will consist of four to five students.
 
 The project will consist of three milestones:
   
-  1. **Idea generation phase (5%).** Before class on [week 3](#week-3) a short one page document must be submitted that includes names of each team member and a brief description (approx one paragraph each) of the team's three most exciting project proposals. I will meet with each team during the week to discuss ideas and provide my advice on the prospects for the projects.
+  1. **Idea generation phase (5%).** On [week 3](#week-3) a short one page document must be submitted that includes names of each team member and a brief description (approx. one to two paragraphs each) of the team's three most exciting project proposals. I will meet with each team during the week to discuss ideas and provide my advice on the prospects for the projects.
   
-  2. **Initial Draft (5%).** Before class on [week 6](#week-6), a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during week 6 to discuss progress, questions, problems, etc.
+  2. **Initial Draft (5%).** On [week 6](#week-6), a preliminary draft of the writeup is due. This does *not* have to be a complete draft. It is meant as a forcing mechanism for you to make progress during the term and it provides you with an opportunity to receive feedback prior to the final deadline. I will meet with each team again during week 6 to discuss progress, questions, problems, etc.
   
   3. **Final project presentation/slides (10%) and writeup (10%).**  In [week 10](#week-10), each team will have the opportunity to present their work to the class and receive verbal and written feedback from students and the teaching team. Presentations will run ten to fifteen minutes. The team can then incorporate comments into their final writeup (approximately 5 pages, excluding cover page, references, works cited, etc.), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
 
@@ -106,6 +103,7 @@ If you intend on using a programming language to produce your work, I highly sug
 There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a list of list of repositories, here are a few places to go for interesting datasets for projects:
 
   1. Repositories
+    - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
     - [AWS Datasets](https://aws.amazon.com/datasets/)
     - [Github Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
     - [Kaggle Data Sets](https://www.kaggle.com/datasets)
@@ -219,6 +217,7 @@ _Team Milestone #1 (Ideas) Due 17 Oct + Meeting (17 Oct - 20 Oct)_
 ##### Analytics: Data Generating Process
 1. Case: Doshi, A. R., Ganapathyraj P., and Schmidt W. (2017). Yammer — Data Insights (Cornell/UCL School of Management Case)
 1. Shmueli, G. (2010). [To explain or to predict?](http://arxiv.org/pdf/1101.0891.pdf) Statistical Science, 25(3), 289-310.
+<!-- DAG Reading to Come -->
 
 ##### Additional Reading
 - Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99-120. [[Article]](https://business.illinois.edu/josephm/BA545_Fall%202011/S10/Barney%20(1991).pdf)
@@ -226,7 +225,7 @@ _Team Milestone #1 (Ideas) Due 17 Oct + Meeting (17 Oct - 20 Oct)_
 - Fowler, S. (2017). [Reflecting on One Very Strange Year at Uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber). Susan J. Fowler personal blog.
 - Albarran, T. and Holder, E. (2017). [Covington Report on Uber](https://drive.google.com/file/d/0B1s08BdVqCgrUVM4UHBpTGROLXM/view).
 - Swisher, K. (2017). [Uber has Hired HBS's Frances Frei as a top Leadership and Strategy Exec to Fix its Management Mess](https://www.recode.net/2017/6/5/15741982/uber-hires-hbs-frances-frei-leadership-strategy-exec-fix-management-mess). Recode.
-- Kantor, J. (2017). [Harvard Business School Case Study: Gender Equity](http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?_r=1&hp&). The New York Times. <!-- make this mandatory???  -->
+- Kantor, J. (2017). [Harvard Business School Case Study: Gender Equity](http://www.nytimes.com/2013/09/08/education/harvard-case-study-gender-equity.html?_r=1&hp&). The New York Times. <!-- Make this mandatory?  -->
 - Roberts, R. (2016). [Susan Athey on Machine Learning, Big Data, and Causation](http://www.econtalk.org/archives/2016/09/susan_athey_on.html). EconTalk. [Podcast].
 - Breiman, L. (2001). [Statistical modeling: The two cultures (with comments and a rejoinder by the author)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726). Statistical Science, 16(3), 199-231.
 
@@ -267,7 +266,6 @@ _Team Milestone #2 due 14 Nov (10%) + Meeting (14 Nov - 16 Nov)_
 ##### Additional Reading
 - Varian, H.R. (1998). [Markets for Information Goods](http://people.ischool.berkeley.edu/~hal/Papers/japan/japan.pdf). Working Paper.
 - Pearl, J. (2009). Causal inference in statistics: An overview. Statistics Surveys, 3, 96-146. [[Article]](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
-<!-- Additional readings on DAGs -->
 
 ### Week 7
 _Quiz #4 due 20 Nov_
@@ -283,12 +281,12 @@ _Assignment #2 due 21 Nov_
 1. Kohavi, R., Longbotham, R., Sommerfield, D., & Henne, R. M. (2009). [Controlled experiments on the web: Survey and practical guide](http://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf). Data Mining and Knowledge Discovery, 18(1), 140-181. (Focus on Sections 1-3, 6.)
 
 ##### Additional Reading
-<!-- - Armstrong, M. (2006). Competition in two-sided markets. RAND Journal of Economics, 37(3), 668-691. [[Prior Version]](http://people.ischool.berkeley.edu/~hal/Courses/StratTech07/Lectures/Platforms/mark-armstrong.pdf) -->
 - Gawer, A. (2014). [Bridging differing perspectives on technological platforms: Toward an integrative framework](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/14393/2/Gawer%20Research%20Policy%202014%20Briding%20Differing%20Perspectives%20on%20Technological%20Platforms.pdf). Research Policy, 43(7), 1239-1249.
 - Hagiu, A. (2007). Merchant or two-sided platform? Review of Network Economics, 6(2). [[Prior Version]](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=950100)
 - Eisenmann, T. R., G. Parker, and M. W. Van Alystne (2006). Strategies for Two-Sided Markets. Harvard Business Review. [[Registration Required]](https://hbr.org/2006/10/strategies-for-two-sided-markets#)
-<!-- - Rochet, J. C. & Tirole, J. (2006). Two-sided markets: A progress report. RAND Journal of Economics, 37(3), 645-667. [[Prior Version]](http://people.ischool.berkeley.edu/~hal/Courses/StratTech07/Lectures/Platforms/two-sided-market-survey.pdf) -->
 - Rysman, M. (2009). [The economics of two-sided markets](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.23.3.125). The Journal of Economic Perspectives, 23(3), 125-143.
+<!-- - Armstrong, M. (2006). Competition in two-sided markets. RAND Journal of Economics, 37(3), 668-691. [[Prior Version]](http://people.ischool.berkeley.edu/~hal/Courses/StratTech07/Lectures/Platforms/mark-armstrong.pdf) -->
+<!-- - Rochet, J. C. & Tirole, J. (2006). Two-sided markets: A progress report. RAND Journal of Economics, 37(3), 645-667. [[Prior Version]](http://people.ischool.berkeley.edu/~hal/Courses/StratTech07/Lectures/Platforms/two-sided-market-survey.pdf) -->
 - Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press. Chapter 1.
 - Crook, T., Frasca, B., Kohavi, R., & Longbotham, R. (2009). [Seven pitfalls to avoid when running controlled experiments on the web](http://ai.stanford.edu/~ronnyk/2009-ExPpitfalls.pdf). In Proceedings of the 15th ACM SIGKDD international conference on knowledge discovery and data mining.
 - Kohavi, R., Deng, A., Frasca, B., Longbotham, R., Walker, T., & Xu, Y. (2012). [Trustworthy online controlled experiments: Five puzzling outcomes explained](http://ai.stanford.edu/~ronnyk/puzzlingOutcomesInControlledExperiments.pdf). In Proceedings of the 18th ACM SIGKDD international conference on knowledge discovery and data mining.
@@ -301,9 +299,6 @@ _Assessment #3 due 28 Nov_
 1. Richards, N. M. & King (2014). Big data ethics. Wake Forest Law Review, 46, 393-432. [[Article]](http://pacscenter.stanford.edu/sites/all/files/RIchards%20and%20King%20Ethics.pdf) (Read Part II, Skim the rest.)
 1. Angwin, J., Larson, J., Mattu, S., Kirchner, L. (2016). [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). ProPublica.
 1. Lanchester, J. (2017). [You Are the Product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product). London Review of Books.
-<!-- Who owns data? -->
-<!-- Uber is an illegal company -->
-<!-- ML cannot escape the inherent human biases, because data will always be produced and collected by humans with bias -->
 
 ##### Additional Reading
 - Duhigg, C. (2012). How Companies Learn Your Secrets. New York Times. [[Paywall]](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all&_r=0)
