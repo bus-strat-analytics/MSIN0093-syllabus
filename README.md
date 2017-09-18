@@ -2,7 +2,8 @@
 
 ## Instructor: [Anil Doshi](http://www.anilrdoshi.com)
   - Office: 1CW, SW6
-  - Office hours: Wednesdays, 12:30pm to 1:55pm. Email me (anil[dot]doshi[@]at]ucl[dot]ac[dot]uk) for appointments outside office hours.
+  - Email: anil[dot]doshi[at]ucl[dot]ac[dot]uk
+  - Office hours: Wednesdays, 12:30pm to 1:55pm. Email me for appointments outside office hours.
 
 ## Course Details
   - [Course description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
