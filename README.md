@@ -2,7 +2,7 @@
 
 ## Instructor: [Anil Doshi](http://www.anilrdoshi.com)
   - Office: 1CW, SW6
-  - Office hours: Wednesdays, 12:30pm to 1:55pm. [Email](mailto:anil.doshi@ucl.ac.uk) me for appointments outside office hours.
+  - Office hours: Wednesdays, 12:30pm to 1:55pm. Email me (anil[dot]doshi[@]at]ucl[dot]ac[dot]uk) for appointments outside office hours.
 
 ## Course Details
   - [Course description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
@@ -10,10 +10,10 @@
   - Location: 1CW, Northeast Lecture Theater
 ### Section 1: MSING051 ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023))
   - Time: Tuesdays, 8:30am to 11:30am
-  - TA: [Andrew Montandon](mailto:a.montandon@ucl.ac.uk), Office Hours: [TBD], 1CW, [location TBD]
+  - TA: Andrew Montandon, Office Hours: [TBD], 1CW, [location TBD], Email: a[.]dot]montandon[at]ucl[dot]ac[dot]uk
 ### Section 2: MSINM051<!--  ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023)) -->
   - Time: Tuesdays, 12:00pm to 3:00pm
-  - TA: [Yasaman Soltan Zadeh](mailto:y.soltan-zadeh@ucl.ac.uk), Office Hours: Tuesdays, [TBD], 1CW, [location TBD]
+  - TA: Yasaman Soltan Zadeh, Office Hours: Tuesdays, [TBD], 1CW, [location TBD], Email: y[dot]soltan-zadeh[at]ucl[dot]ac[dot]uk
 
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
@@ -100,7 +100,7 @@ If you intend on using a programming language to produce your work, I highly sug
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ## Sources of Data
-There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a list of list of repositories, here are a few places to go for interesting datasets for projects:
+There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a dataset of datasets, here are a few places to go:
 
   1. Repositories
     - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
@@ -120,6 +120,7 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
     - [Reddit Comment Datasets](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
     - [GDELT global news dataset](http://gdeltproject.org)
+    - [Archive's Face-o-Matic](https://archive.org/details/faceomatic)
 
   3. Social discussions
     - [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
@@ -134,6 +135,7 @@ There is no shortage of housed data, data repositories online, and lists of data
     - [Observatory of Economic Complexity](http://atlas.media.mit.edu/en/)
 
   5. Data websites
+    - [Open Data Certificate](https://certificates.theodi.org/en/datasets)
     - [Data World](https://data.world)
     - [DBPedia](http://wiki.dbpedia.org)
 
@@ -153,7 +155,7 @@ While no books are required for this class, I highly recommend a selection of th
     - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
     - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
 
-  4. **Machine Learning.** Second book is a more advanced treatment of similar material. One likely would not need both.
+  4. **Machine Learning.** Second book is a more advanced treatment of material in the first book. One likely would not need both.
     - James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer.
     - Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer.
 
