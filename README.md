@@ -157,7 +157,7 @@ While no books are required for this class, I highly recommend a selection of th
     - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
     - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
 
-  4. **Machine Learning.** Second book is a more advanced treatment of material in the first book. One likely would not need both.
+  4. **Machine Learning.** Second book is a more advanced treatment of material in the first book. One likely would not need both. We do not explicitly cover topics in this class from these books. Nevertheless, they are helpful primers.
     - James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer.
     - Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer.
 
@@ -203,9 +203,9 @@ _Quiz #1 due 9 Oct_
 1. &#x2729; Porter, M. E. (2008). The Five Competitive Forces that Shape Strategy. Harvard Business Review.
 
 ##### Analytics: Summarization
-1. &#x229A; Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel. [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). Sections 1.6-1.7. (Primer on data summarization and probability. Review only if you need to brush up on these topics.)
 1. &#x2729; Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press. Chapters 5.
 1. &#x2729; Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press. Chapter 10.
+1. &#x229A; Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel. [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). Sections 1.6-1.7. (Primer on data summarization and probability. Review only if you need to brush up on these topics.)
 1. &#x2295; Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press. Chapters 6-7.
 
 ### Week 3
