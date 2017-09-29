@@ -94,7 +94,7 @@ Having said that, there are a number of applications and environments that I wil
 - [Amazon Web Services Machine Learning](https://aws.amazon.com/machine-learning/). Cloud based machine learning platform. Education accounts can be set up to get started.
 - [Microsoft Cloud Platform](https://www.microsoft.com/en-us/cloud-platform/). Alternative cloud platform. Education accounts available.
 - [Tableau](http://www.tableau.com/). Data visualization tool.
-- [Grid](https://quid.com). Online platform for topic clustering.
+- [Quid](https://quid.com). Online platform for topic clustering.
 
 If you intend on using a programming language to produce your work, I highly suggest R and/or Python. Each has its comparative strengths and those most immersed in analytics in industry typically work with both languages. Here are a few resources for each:
 - [R for Data Science](http://r4ds.had.co.nz/index.html)
