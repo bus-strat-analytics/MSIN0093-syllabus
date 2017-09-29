@@ -162,7 +162,7 @@ While no books are required for this class, I highly recommend a selection of th
     - Hastie, T., R. Tibshirani, and J. Friedman. (2009). [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/). New York: Springer.
 
 ## Schedule
-For your convenience, a summary of the schedule and assignment deadlines is posted below. Note all assignments are due at 10:00am. These deadlines are also listed by week in the [Reading List](#reading-list). A &#x1F510; indicates a strategy topic and a &#x1F4C8; indicates an analytics topic.
+For your convenience, a summary of the schedule and assignment deadlines is posted below. Note all assignments are due at 10:00am. A &#x1F510; indicates a strategy topic and a &#x1F4C8; indicates an analytics topic.
 
 | Week | Date   | Topic                                                                               | Assignment                                                                   | Weight           |
 | ---: | :---   | :----                                                                               | :----------                                                                  | ------:          |
