@@ -26,7 +26,7 @@
   
   If you have circumstances that require an exception to this rule, please discuss with me.
 
-  During our "lab" style working sessions, it will often be helpful to have your laptops. I will let you know when they are needed.
+  There will be occassions when laptops will be used. I will let you know when they are needed.
 
   4. **Class Norms.** I would like to make explicit some norms that I hope are wholly embraced in the classroom.
       - Arrive to class on time and prepared to contribute
@@ -52,7 +52,7 @@ Class participation takes place both inside and outside the classroom.
 
   2. **Outside the classroom.** Part of your class participation assessment will be your engagement with the material outside the class. Topics we discuss in class are being discussed and debated right now, all the time. To bring emerging issues and events into the classroom sphere, and to apply what we learn in the class to other cases, students are asked to engage with the material on two media: Twitter and Medium.
   
-  On Twitter, use #MSING051 to highlight interesting articles or topics and your thoughts on them. If you prefer to write something a bit longer (and more tightly packaged than a Twitter thread), I have started an [MSING051](https://medium.com/msing051) publication on Medium. Responses on Twitter and commenting on Medium articles of peers also count towards class participation.
+  On Twitter, use #MSING051 to highlight interesting articles or topics and your thoughts on them. When there is a need to write something a bit more involved, we have an [MSING051](https://medium.com/msing051) publication on Medium. Responses on Twitter and commenting on Medium articles of peers also count towards class participation.
 
 ### Individual assignments (50%)
 There will be two kinds of individual assignments: shorter, check-in style exercises, and longer, more in-depth assignments.
@@ -74,9 +74,11 @@ The project will consist of three milestones:
   
   3. **Final project presentation/slides (10%) and writeup (10%).**  In [week 10](#week-10), each team will have the opportunity to present their work to the class and receive verbal and written feedback from students and the teaching team. Presentations will run ten to fifteen minutes. The team can then incorporate comments into their final writeup (approximately 5 pages, excluding cover page, references, works cited, etc.), which will be due at the end of the week. At the end of the writeup, there should be an explicit attribution of labor among the team members.
 
-Your team may choose one of the three types of projects. Project types are flexible and I invite teams to craft the project that best suits their interests.
+  Your team may choose one of the three types of projects. Project types are flexible and I invite teams to craft the project that best suits their interests.
   
   1. **Data project.** You are the data team of your firm and you are presenting a research project to executive management as a means for better understanding customers, transactions, relationships between various activities of users, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on research agenda).
+
+  There will also be an opportunity to work on a data science project using a dataset from affiliated organizations. These projects will effectively be follow on work to dissertation projects from last year's students. Details will be provided in class on how these data projects will run.
   
   2. **Data-based business proposal.** You are an entrepreneurial team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this course relate to the value proposition of your startup.
   
