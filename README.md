@@ -52,7 +52,7 @@ Class participation takes place both inside and outside the classroom.
 
   2. **Outside the classroom.** Part of your class participation assessment will be your engagement with the material outside the class. Topics we discuss in class are being discussed and debated right now, all the time. To bring emerging issues and events into the classroom sphere, and to apply what we learn in the class to other cases, students are asked to engage with the material on two media: Twitter and Medium.
   
-  On Twitter, use #MSING051 to highlight interesting articles or topics and your thoughts on them. When there is a need to write something a bit more involved, we have an [MSING051](https://medium.com/msing051) publication on Medium. Responses on Twitter and commenting on Medium articles of peers also count towards class participation.
+  On Twitter, use #MSING051 to highlight interesting articles or topics and your thoughts on them (not assessed). When you would like to post a critical reflection on related material, we have an [MSING051](https://medium.com/msing051) publication on Medium. After [registering](https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2F&operation=register) and getting added to the publication contributors, you can [submit](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication) an original article or an article that responds to one your classmates.
 
 ### Individual assignments (50%)
 There will be two kinds of individual assignments: shorter, check-in style exercises, and longer, more in-depth assignments.
