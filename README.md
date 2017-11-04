@@ -174,9 +174,9 @@ For your convenience, a summary of the schedule and assignment deadlines is post
 | 4    | 24 Oct | &#x1F510;Dynamics I                                                                 | Assignment #1                                                                | 15%              |
 | 5    | 31 Oct | &#x1F510;Dynamics II<br>&#x1F4C8;Regression                                         | Quiz #2 (due 30 Oct)                                                         | 1.25%            |
 | 6    | 14 Nov | &#x1F510;Economics of Information<br>&#x1F4C8;Correlation/Causation                 | Quiz #3 (due 13 Nov)<br>Team Milestone #2<br>Team Meetings (14 Nov - 16 Nov) | 1.25%<br>5%<br>- |
-| 7    | 21 Nov | &#x1F510;Multi-Sided Platforms<br>Experiments                                       | Quiz #4 (due 20 Nov)<br>Assignment #2                                        | 1.25%<br>15%     |
-| 8    | 28 Nov | Ethics                                                                              | Assignment #3                                                                | 15%              |
-| 9    | 5 Dec  | &#x1F510;Data-based Business Models<br>&#x1F4C8;Quasi-Experiments<br>Course Wrap Up |                                                                              |                  |
+| 7    | 21 Nov | &#x1F510;Multi-Sided Platforms<br>Experiments                                       | Quiz #4 (due 20 Nov)                                                         | 1.25%            |
+| 8    | 28 Nov | Ethics                                                                              | Assignment #2                                                                | 15%              |
+| 9    | 5 Dec  | &#x1F510;Data-based Business Models<br>&#x1F4C8;Quasi-Experiments<br>Course Wrap Up | Assignment #3                                                                | 15%              |
 | 10   | 12 Dec | Group Presentations<br>Course Evaluations                                           | Team Milestone #3a<br>Team Milestone #3b (Due 15 Dec)                        | 10%<br>10%       |
 
 ## Reading List
