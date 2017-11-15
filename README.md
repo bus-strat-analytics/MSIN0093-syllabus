@@ -36,7 +36,7 @@
       - Speak up if you disagree
       - And finally, *do not* wait until you have *the perfect* comment to raise your hand and speak in class
 
-  5. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please let me know before class begins that you have a guest. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers in the class.
+  5. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please email me the name of your guest the day before class. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers during the class.
 
   6. **Food and Drink.** In line with the UCL School of Management norms, please refrain from bringing food or drinks (water bottles are OK) into the class.
   
@@ -50,9 +50,9 @@ Class participation takes place both inside and outside the classroom.
   
   During some classes, students will be "warm" called to help spur discussion. Students whose names are on the board in the beginning of class are on notice and will be asked to participate in the discussion at certain points.
 
-  2. **Outside the classroom.** Part of your class participation assessment will be your engagement with the material outside the class. Topics we discuss in class are being discussed and debated right now, all the time. To bring emerging issues and events into the classroom sphere, and to apply what we learn in the class to other cases, students are asked to engage with the material on two media: Twitter and Medium.
+  2. **Outside the classroom.** Part of your class participation assessment will be your engagement with the material outside the class. Topics we discuss in class are being discussed and debated right now, all the time. To bring emerging issues and events into the classroom sphere, and to apply what we learn in the class to other cases, students are asked to engage with the material on Medium.
   
-  On Twitter, use #MSING051 to highlight interesting articles or topics and your thoughts on them (not assessed). When you would like to post a critical reflection on related material, we have an [MSING051](https://medium.com/msing051) publication on Medium. After [registering](https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2F&operation=register) and getting added to the publication contributors, you can [submit](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication) an original article or an article that responds to one your classmates.
+  When you would like to post a critical reflection or discuss news and content from outside the classroom, we have an [MSING051](https://medium.com/msing051) publication on Medium. After [registering](https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2F&operation=register), submit your username to get added to the publication contributors. At that point you can can [publish](https://help.medium.com/hc/en-us/articles/225168768-Write-post) original articles or articles that respond to one your classmates and then [submit](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication) it to the module publication.
 
 ### Individual assignments (50%)
 There will be two kinds of individual assignments: shorter, check-in style exercises, and longer, more in-depth assignments.
