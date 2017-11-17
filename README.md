@@ -1,21 +1,20 @@
 # Business Strategy and Analytics Syllabus
 
 ## Instructor: [Anil Doshi](http://www.anilrdoshi.com)
-  - Office: 1CW, SW6
+  - Office: CW, SW6
   - Email: anil[dot]doshi[at]ucl[dot]ac[dot]uk
-  - Office hours: Wednesdays, 12:30pm to 1:55pm. Email me for appointments outside office hours.
+  - Office hours: Wednesdays, 12:30 to 13:55. Email me for appointments outside office hours.
 
 ## Course Details
   - Course ID: MSING051 ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023))
   - [Course description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
   - Offered: Fall 2017, Term 1
-  - Location: CW, Northeast Lecture Theater
-### Section 1
-  - Time: Tuesdays, 8:30am to 11:30am
-  - TA: Andrew Montandon, Office Hours: 11:30-12:00, 1CW, Northeast Lecture Theater, Email: a[.]dot]montandon[at]ucl[dot]ac[dot]uk
-### Section 2
-  - Time: Tuesdays, 12:00pm to 3:00pm
-  - TA: Vidya Panicker, Office Hours: Tuesdays, 15:00-16:00, 1CW, Northeast Lecture Theater, Email: v[dot]panicker[at]ucl[dot]ac[dot]uk
+  - Location: CW Northeast Lecture Theater
+  - Section 1: Tuesdays, 8:30 to 11:30
+  - Section 2: Tuesdays, 12:00 to 15:00
+### TAs
+  - Andrew Montandon, Office Hours: 11:30-12:00, CW Northeast Lecture Theater, Email: a[.]dot]montandon[at]ucl[dot]ac[dot]uk
+  - Vidya Panicker, Office Hours: Tuesdays, 15:00-16:00, CW Northeast Lecture Theater, Email: v[dot]panicker[at]ucl[dot]ac[dot]uk
 
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
