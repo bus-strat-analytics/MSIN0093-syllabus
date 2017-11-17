@@ -9,13 +9,13 @@
   - Course ID: MSING051 ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023))
   - [Course description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
   - Offered: Fall 2017, Term 1
-  - Location: 1CW, Northeast Lecture Theater
+  - Location: CW, Northeast Lecture Theater
 ### Section 1
   - Time: Tuesdays, 8:30am to 11:30am
-  - TA: Andrew Montandon, Office Hours: [TBD], 1CW, [location TBD], Email: a[.]dot]montandon[at]ucl[dot]ac[dot]uk
+  - TA: Andrew Montandon, Office Hours: 11:30-12:00, 1CW, Northeast Lecture Theater, Email: a[.]dot]montandon[at]ucl[dot]ac[dot]uk
 ### Section 2
   - Time: Tuesdays, 12:00pm to 3:00pm
-  - TA: Yasaman Soltan Zadeh, Office Hours: Tuesdays, [TBD], 1CW, [location TBD], Email: y[dot]soltan-zadeh[at]ucl[dot]ac[dot]uk
+  - TA: Vidya Panicker, Office Hours: Tuesdays, 15:00-16:00, 1CW, Northeast Lecture Theater, Email: v[dot]panicker[at]ucl[dot]ac[dot]uk
 
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
