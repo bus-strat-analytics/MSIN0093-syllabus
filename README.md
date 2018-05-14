@@ -116,17 +116,17 @@ We will rely heavily on Cunningham (2018), which is freely available. Here is a 
 ## Schedule
 A summary of the schedule and assignment deadlines is posted below. Note all assignments are due at 10:00am.
 
-| Week | Date   | Topic                                                           | Assignment                                            | Weight     |
-| ---: | :---   | :----                                                           | :----------                                           | ------:    |
-| 1    | 2 Oct  | Module Introduction<br>Problem Framing                          |                                                       |            |
-| 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization        |                                                       |            |
-| 3    | 16 Oct | Data Ethics                                                     | Assignment #1                                         | 20%        |
-| 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                          | Team Milestone #1<br>Optional Team Meetings           |            |
-| 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                    |                                                       |            |
-| 6    | 13 Nov | Experiments II<br> Data Modeling I                              | Team Milestone #2<br>Optional Team Meetings           |            |
-| 7    | 20 Nov | Data Modeling II<br>Quasi-Experimental Design I                 | Assignment #2                                         | 30%        |
-| 8    | 27 Nov | Quasi-Experimental Design II                                    |                                                       |            |
-| 9    | 4 Dec  | Quasi-Experimental Design III                                   | Assignment #3                                         | 10%        |
+| Week | Date   | Topic                                                       | Assignment                                            | Weight     |
+| ---: | :---   | :----                                                       | :----------                                           | ------:    |
+| 1    | 2 Oct  | Module Introduction<br>Problem Framing                      |                                                       |            |
+| 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization    |                                                       |            |
+| 3    | 16 Oct | Data Ethics                                                 | Assignment #1                                         | 20%        |
+| 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                      | Team Milestone #1<br>Optional Team Meetings           |            |
+| 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                |                                                       |            |
+| 6    | 13 Nov | Experiments II<br> Causal Modeling I                        | Team Milestone #2<br>Optional Team Meetings           |            |
+| 7    | 20 Nov | Causal Modeling II<br>Quasi-Experimental Design I           | Assignment #2                                         | 20%        |
+| 8    | 27 Nov | Quasi-Experimental Design II                                |                                                       |            |
+| 9    | 4 Dec  | Quasi-Experimental Design III                               | Assignment #3                                         | 20%        |
 | 10   | 11 Dec | Group Presentations<br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec) | 15%<br>25% |
 
 ## Reading List
