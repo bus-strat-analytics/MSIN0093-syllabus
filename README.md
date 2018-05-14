@@ -66,9 +66,9 @@ The project will consist of three milestones:
 
   1. **Data project.** You are the data team of your firm and you are presenting a research project to executive management as a means for better understanding a strategic aspect of the company, transactions, relationships between various activities of users, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on agenda).
 
-  There will also be an opportunity to work on a data science project using a dataset from affiliated organizations. These projects will effectively be follow on work to dissertation projects from last year's students. Details will be provided in class on how these data projects will run.
+  2. **Client project.** There will be an opportunity to work on a data science project using a dataset from affiliated organizations. These projects will effectively be follow on work to dissertation projects from prior years' students. Details will be provided in class on how these data projects will run.
   
-  2. **Data-based business proposal.** You are a startup team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this module relate to the value proposition of your startup.
+  3. **Data-based business proposal.** You are a startup team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a business plan and pay particular attention to how the concepts in this module relate to the value proposition of your startup.
   
 ## Honor Code
 By taking Business Strategy and Analytics at the UCL School of Management, you are agreeing to maintain a high level of professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the university's code of conduct.
@@ -76,10 +76,15 @@ By taking Business Strategy and Analytics at the UCL School of Management, you a
 ## Software
 Because we focus on underlying principles, I do not require the use of any specific software or tools. For required work, it is the student's responsibility to understand the problem, identify a path towards solution, and implement that path how he or she sees fit.
 
-If you intend on using a programming language to produce your work, I highly suggest [R](https://www.r-project.org) and/or [Python](https://www.python.org). Each has its comparative strengths and those most immersed in analytics in industry typically work with both languages. Here are a few resources for each:
-- [R for Data Science](http://r4ds.had.co.nz/index.html)
-- [Model Analytics Python Tutorial](https://community.modeanalytics.com/python/)
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+If you intend on using a programming language to produce your work, I highly suggest [R](https://www.r-project.org) and/or [Python](https://www.python.org). Each has its comparative strengths and those most immersed in analytics in industry typically work with both languages. Here are a few resources for both languages:
+- [R](https://www.r-project.org)
+  + [R for Data Science](http://r4ds.had.co.nz/index.html)
+  + [Econometrics in R](https://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)
+  + [r-econometrics](https://www.r-econometrics.com/reproduction/wooldridge/wooldridgeintro/) (replications from an econometrics textbook look helpful)
+- [Python](https://www.python.org)
+  + [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
+  + [Model Analytics Python Tutorial](https://community.modeanalytics.com/python/)
+  + [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 Also, here are a few applications and environments that are typically used in industry.
 
@@ -122,7 +127,7 @@ A summary of the schedule and assignment deadlines is posted below. Note all ass
 | 7    | 20 Nov | Data Modeling II<br>Quasi-Experimental Design I                 | Assignment #2                                         | 30%        |
 | 8    | 27 Nov | Quasi-Experimental Design II                                    |                                                       |            |
 | 9    | 4 Dec  | Quasi-Experimental Design III                                   | Assignment #3                                         | 10%        |
-| 10   | 11 Dec | Group Presentations<br><br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec) | 15%<br>25% |
+| 10   | 11 Dec | Group Presentations<br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec) | 15%<br>25% |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/2BF608D8-EF16-F451-59E0-B8D7E7030345.html) to see the readings for this module.
