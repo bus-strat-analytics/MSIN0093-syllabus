@@ -44,10 +44,8 @@
 Assessment is based on a series of individual assignments and a team project. The deadlines and weights of each assignment are summarized in the [schedule](#schedule).
 
 ### Individual assignments (60%)
+Individual assessed assignments will consist of three written submissions and will due be at 10:00am on the day of class.
 
-  Individual assessed assignments will consist of three written submissions and will due be at 10:00am on the day of class.
-
-  If the assignment calls for the submission of presentation slides and there is a need for additional exposition, then please add a _short_ commentary to the presenter notes and submit the slides with the presenter notes.
 
 ### Team project (40%)
 Over the term, students will produce a team project. Teams will consist of five students. Six students are okay, but I will expect 20-25% more work (quality and quantity).
@@ -116,18 +114,18 @@ We will rely heavily on Cunningham (2018), which is freely available. Here is a 
 ## Schedule
 A summary of the schedule and assignment deadlines is posted below. Note all assignments are due at 10:00am.
 
-| Week | Date   | Topic                                                       | Assignment                                            | Weight     |
-| ---: | :---   | :----                                                       | :----------                                           | ------:    |
-| 1    | 2 Oct  | Module Introduction<br>Problem Framing                      |                                                       |            |
-| 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization    |                                                       |            |
-| 3    | 16 Oct | Data Ethics                                                 | Assignment #1                                         | 20%        |
-| 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                      | Team Milestone #1<br>Optional Team Meetings           |            |
-| 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                |                                                       |            |
-| 6    | 13 Nov | Experiments II<br> Causal Modeling I                        | Team Milestone #2<br>Optional Team Meetings           |            |
-| 7    | 20 Nov | Causal Modeling II<br>Quasi-Experimental Design I           | Assignment #2                                         | 20%        |
-| 8    | 27 Nov | Quasi-Experimental Design II                                |                                                       |            |
-| 9    | 4 Dec  | Quasi-Experimental Design III                               | Assignment #3                                         | 20%        |
-| 10   | 11 Dec | Group Presentations<br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec) | 15%<br>25% |
+| Week | Date   | Topic                                                       | Assignment                                                                     | Weight     |
+| ---: | :---   | :----                                                       | :----------                                                                    | ------:    |
+| 1    | 2 Oct  | Module Introduction<br>Problem Framing                      |                                                                                |            |
+| 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization    |                                                                                |            |
+| 3    | 16 Oct | Data Ethics                                                 | Assignment #1<br>Team Milestone #1<br>Optional Team Meetings (17 Oct - 19 Oct) | 20%        |
+| 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                      |                                                                                |            |
+| 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                |                                                                                |            |
+| 6    | 13 Nov | Experiments II<br> Causal Modeling I                        | Team Milestone #2<br>Optional Team Meetings (14 Nov - 16 Nov)                  |            |
+| 7    | 20 Nov | Causal Modeling II<br>Quasi-Experimental Design I           | Assignment #2                                                                  | 20%        |
+| 8    | 27 Nov | Quasi-Experimental Design II                                |                                                                                |            |
+| 9    | 4 Dec  | Quasi-Experimental Design III                               | Assignment #3                                                                  | 20%        |
+| 10   | 11 Dec | Group Presentations<br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec)                          | 15%<br>25% |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/2BF608D8-EF16-F451-59E0-B8D7E7030345.html) to see the readings for this module.
