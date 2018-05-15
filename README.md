@@ -118,7 +118,7 @@ A summary of the schedule and assignment deadlines is posted below. Note all ass
 | ---: | :---   | :----                                                       | :----------                                                                    | ------:     |
 | 1    | 2 Oct  | Module Introduction<br>Problem Framing                      |                                                                                |             |
 | 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization    |                                                                                |             |
-| 3    | 16 Oct | Data Ethics                                                 | Assignment #1<br>Team Milestone #1<br>Optional Team Meetings (17 Oct - 19 Oct) | 20%<br><br> |
+| 3    | 16 Oct | Data Ethics                                                 | Assignment #1<br>Team Milestone #1<br>Optional Team Meetings (17 Oct - 19 Oct) | 20%<br>—<br>— |
 | 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                      |                                                                                |             |
 | 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                |                                                                                |             |
 | 6    | 13 Nov | Experiments II<br> Causal Modeling I                        | Team Milestone #2<br>Optional Team Meetings (14 Nov - 16 Nov)                  |             |
