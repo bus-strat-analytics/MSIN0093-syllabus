@@ -9,10 +9,16 @@
   - Module ID: MSIN0093 ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023))
   - [Module description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
   - Offered: Fall 2018, Term 1
-  - Section 1: Bloomsbury, Tuesdays, 8:30 to 11:30
-  - Section 2: Canary Wharf Northeast Lecture Theater, Tuesdays, 13:00 to 16:00
-### TAs
-  - Andrew Montandon, Office Hours: by appointment. Email: a[.]dot]montandon[at]ucl[dot]ac[dot]uk
+  - TAs (Office hours by appointment. Please email to schedule.)
+    + Andrew Montandon (a[dot]montandon[at]ucl[dot]ac[dot]uk)
+    + Sayan Sarkar (ssarkar[at]london[dot]edu)
+### Section 1
+  - Bloomsbury [Classroom TBD]
+  - Tuesdays, 8:30 to 11:30
+  - TA: Sa
+### Section 2
+  - Canary Wharf Northeast Lecture Theater
+  - Tuesdays, 13:00 to 16:00
 
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
@@ -114,18 +120,18 @@ We will rely heavily on Cunningham (2018), which is freely available. Here is a 
 ## Schedule
 A summary of the schedule and assignment deadlines is posted below. Note all assignments are due at 10:00am.
 
-| Week | Date   | Topic                                                       | Assignment                                                                     | Weight      |
-| ---: | :---   | :----                                                       | :----------                                                                    | ------:     |
-| 1    | 2 Oct  | Module Introduction<br>Problem Framing                      |                                                                                |             |
-| 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization    |                                                                                |             |
-| 3    | 16 Oct | Data Ethics                                                 | Assignment #1<br>Team Milestone #1<br>Optional Team Meetings (17 Oct - 19 Oct) | 20%<br>—<br>— |
-| 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                      |                                                                                |             |
-| 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                |                                                                                |             |
-| 6    | 13 Nov | Experiments II<br> Causal Modeling I                        | Team Milestone #2<br>Optional Team Meetings (14 Nov - 16 Nov)                  |             |
-| 7    | 20 Nov | Causal Modeling II<br>Quasi-Experimental Design I           | Assignment #2                                                                  | 20%         |
-| 8    | 27 Nov | Quasi-Experimental Design II                                |                                                                                |             |
-| 9    | 4 Dec  | Quasi-Experimental Design III                               | Assignment #3                                                                  | 20%         |
-| 10   | 11 Dec | Group Presentations<br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec)                          | 15%<br>25%  |
+| Week | Date   | Topic                                                       | Assignment                                                    | Weight     |
+| ---: | :---   | :----                                                       | :----------                                                   | ------:    |
+| 1    | 2 Oct  | Module Introduction<br>Problem Framing                      |                                                               |            |
+| 2    | 9 Oct  | Data Ethics                                                 | Assignment #1                                                 | 20%        |
+| 3    | 16 Oct | Foundations of Strategy<br>Data Basics and Summarization    | Team Milestone #1<br>Optional Team Meetings (17 Oct - 19 Oct) | —<br>—     |
+| 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                      |                                                               |            |
+| 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                |                                                               |            |
+| 6    | 13 Nov | Experiments II<br> Causal Modeling I                        | Team Milestone #2<br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—     |
+| 7    | 20 Nov | Causal Modeling II<br>Quasi-Experimental Design I           | Assignment #2                                                 | 20%        |
+| 8    | 27 Nov | Quasi-Experimental Design II                                |                                                               |            |
+| 9    | 4 Dec  | Quasi-Experimental Design III                               | Assignment #3                                                 | 20%        |
+| 10   | 11 Dec | Group Presentations<br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec)         | 15%<br>25% |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/2BF608D8-EF16-F451-59E0-B8D7E7030345.html) to see the readings for this module.
