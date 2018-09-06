@@ -12,13 +12,9 @@
   - TAs (Office hours by appointment. Please email to schedule.)
     + Andrew Montandon (a[dot]montandon[at]ucl[dot]ac[dot]uk)
     + Sayan Sarkar (ssarkar[at]london[dot]edu)
-### Section 1
-  - Bloomsbury [Classroom TBD]
-  - Tuesdays, 8:30 to 11:30
-  - TA: Sa
-### Section 2
-  - Canary Wharf Northeast Lecture Theater
-  - Tuesdays, 13:00 to 16:00
+  - Sections:
+    + Section 1: Bloomsbury [Classroom TBD], Tuesdays, 8:30 to 11:30
+    + Section 2: Canary Wharf Northeast Lecture Theater, Tuesdays, 13:00 to 16:00
 
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
@@ -49,12 +45,11 @@
 ## Assessment
 Assessment is based on a series of individual assignments and a team project. The deadlines and weights of each assignment are summarized in the [schedule](#schedule).
 
-### Individual assignments (60%)
-Individual assessed assignments will consist of three written submissions and will due be at 10:00am on the day of class.
-
+### Individual assignment (60%)
+Individual assessed assignments will consist of a term-long assignment.
 
 ### Team project (40%)
-Over the term, students will produce a team project. Teams will consist of five students. Six students are okay, but I will expect 20-25% more work (quality and quantity).
+Over the term, students will produce a team project. Teams will consist of four to five students.
 
 The project will consist of three milestones:
   
@@ -101,7 +96,7 @@ Also, here are a few applications and environments that are typically used in in
 If you want to look for an existing dataset for various assignments, I have assembled an list of [data sources](https://github.com/bus-strat-analytics/data-sources) you can use as an initial point for your search.
 
 ## Recommended Books
-We will rely heavily on Cunningham (2018), which is freely available. Here is a selection of books to complement what you will see during the term.
+We will rely heavily on [Cunningham (2018)](http://scunning.com/cunningham_mixtape.pdf). Here is a selection of books to complement what you will see during the term.
 
   1. **Strategy and Economics**
     - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
@@ -120,18 +115,20 @@ We will rely heavily on Cunningham (2018), which is freely available. Here is a 
 ## Schedule
 A summary of the schedule and assignment deadlines is posted below. Note all assignments are due at 10:00am.
 
-| Week | Date   | Topic                                                       | Assignment                                                    | Weight     |
-| ---: | :---   | :----                                                       | :----------                                                   | ------:    |
-| 1    | 2 Oct  | Module Introduction<br>Problem Framing                      |                                                               |            |
-| 2    | 9 Oct  | Data Ethics                                                 | Assignment #1                                                 | 20%        |
-| 3    | 16 Oct | Foundations of Strategy<br>Data Basics and Summarization    | Team Milestone #1<br>Optional Team Meetings (17 Oct - 19 Oct) | —<br>—     |
-| 4    | 23 Oct | Entrepreneurial Strategy<br>Regression                      |                                                               |            |
-| 5    | 30 Oct | Data and Platform Strategy<br> Experiments I                |                                                               |            |
-| 6    | 13 Nov | Experiments II<br> Causal Modeling I                        | Team Milestone #2<br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—     |
-| 7    | 20 Nov | Causal Modeling II<br>Quasi-Experimental Design I           | Assignment #2                                                 | 20%        |
-| 8    | 27 Nov | Quasi-Experimental Design II                                |                                                               |            |
-| 9    | 4 Dec  | Quasi-Experimental Design III                               | Assignment #3                                                 | 20%        |
-| 10   | 11 Dec | Group Presentations<br>Module Wrap Up<br>Module Evaluations | Team Milestone #3a<br>Team Milestone #3b (Due 14 Dec)         | 15%<br>25% |
+| Week | Date   | Topic                                                    | Assignment                                                        | Weight  |
+| ---: | :---   | :----                                                    | :----------                                                       | ------: |
+| 1    | 2 Oct  | Module Introduction<br>Problem Framing                   |                                                                   |         |
+| 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization |                                                                   |         |
+| 3    | 16 Oct | Entrepreneurial Strategy<br>Regression                   | Team Ideas Milestone<br>Optional Team Meetings (17 Oct - 19 Oct)  | —<br>—  |
+| 4    | 23 Oct | Data and Platform Strategy<br>Experiments I              |                                                                   |         |
+| 5    | 30 Oct | Experiments II<br>Causal Graphing I                      |                                                                   |         |
+|      |        | Reading Week                                             |                                                                   |         |
+| 6    | 13 Nov | Causal Graphing II<br>Causal Models I                    | Team Draft Milestone <br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—  |
+| 7    | 20 Nov | Causal Models II                                         |                                                                   |         |
+| 8    | 27 Nov | Causal Models III                                        |                                                                   |         |
+| 9    | 4 Dec  | Data Ethics                                              | Individual Assignment (due 7 Dec 10:00)                           | 60%     |
+| 10   | 11 Dec | Group Presentations<br>Module Wrap Up and Evaluations    | Team Project (Slides and Writeup) (Due 14 Dec 10:00)              | 40%     |
+
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/2BF608D8-EF16-F451-59E0-B8D7E7030345.html) to see the readings for this module.
