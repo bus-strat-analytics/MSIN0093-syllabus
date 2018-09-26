@@ -13,7 +13,7 @@
     + Andrew Montandon (a[dot]montandon[at]ucl[dot]ac[dot]uk)
     + Sayan Sarkar (ssarkar[at]london[dot]edu)
   - Sections:
-    + Section 1: Bloomsbury [Classroom TBD], Tuesdays, 8:30 to 11:30
+    + Section 1: Bloomsbury Gordon Street (25) Maths 505, Tuesdays, 8:30 to 11:30
     + Section 2: Canary Wharf Northeast Lecture Theater, Tuesdays, 13:00 to 16:00
 
 ## Policies
