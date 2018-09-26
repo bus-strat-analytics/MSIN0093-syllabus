@@ -119,9 +119,9 @@ A summary of the schedule and assignment deadlines is posted below. Note all ass
 | ---: | :---   | :----                                                    | :----------                                                       | ------: |
 | 1    | 2 Oct  | Module Introduction<br>Problem Framing                   |                                                                   |         |
 | 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization |                                                                   |         |
-| 3    | 16 Oct | Entrepreneurial Strategy<br>Regression                   | Team Ideas Milestone<br>Optional Team Meetings (17 Oct - 19 Oct)  | —<br>—  |
-| 4    | 23 Oct | Data and Platform Strategy<br>Experiments I              |                                                                   |         |
-| 5    | 30 Oct | Experiments II<br>Causal Graphing I                      |                                                                   |         |
+| 3    | 16 Oct | Entrepreneurial Strategy<br>Data and Platform Strategy   | Team Ideas Milestone<br>Optional Team Meetings (17 Oct - 19 Oct)  | —<br>—  |
+| 4    | 23 Oct | Experiments I<br>Experiments II                          |                                                                   |         |
+| 5    | 30 Oct | Regression<br>Causal Graphing I                          |                                                                   |         |
 |      |        | Reading Week                                             |                                                                   |         |
 | 6    | 13 Nov | Causal Graphing II<br>Causal Models I                    | Team Draft Milestone <br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—  |
 | 7    | 20 Nov | Causal Models II                                         |                                                                   |         |
