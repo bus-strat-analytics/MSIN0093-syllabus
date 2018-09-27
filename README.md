@@ -98,22 +98,19 @@ If you want to look for an existing dataset for various assignments, I have asse
 ## Recommended Books
 We will rely heavily on [Cunningham (2018)](http://scunning.com/cunningham_mixtape.pdf). Here is a selection of books to complement what you will see during the term.
 
-  1. **Strategy and Economics**
+1. **Strategy and Economics**
+  - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
 
-    - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
+2. **Data Summarization, Graphing, and Visualization**
+  - Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press.
+  - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
 
-  2. **Data Summarization, Graphing, and Visualization**
-
-    - Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press.
-    - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
-
-  3. **Probability, Statistics and Econometrics**
-
-    - Cunningham, S. (2018) [Causal Inference: The Mixtape](http://scunning.com/cunningham_mixtape.pdf).
-    - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
-    - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
-    - Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press.
-    - Angrist, J.D. and J. Pischke. (2009). Mostly Harmless Econometrics. Princeton: Princeton University Press. Note: More advanced treatment of material from Angrist and Pisckhke (2014).
+3. **Probability, Statistics and Econometrics**
+  - Cunningham, S. (2018) [Causal Inference: The Mixtape](http://scunning.com/cunningham_mixtape.pdf).
+  - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
+  - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
+  - Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press.
+  - Angrist, J.D. and J. Pischke. (2009). Mostly Harmless Econometrics. Princeton: Princeton University Press. Note: More advanced treatment of material from Angrist and Pisckhke (2014).
 
 ## Schedule
 A summary of the schedule and assignment deadlines is posted below. Note all assignments are due at 10:00am.
