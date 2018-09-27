@@ -99,13 +99,16 @@ If you want to look for an existing dataset for various assignments, I have asse
 We will rely heavily on [Cunningham (2018)](http://scunning.com/cunningham_mixtape.pdf). Here is a selection of books to complement what you will see during the term.
 
   1. **Strategy and Economics**
+
     - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
 
   2. **Data Summarization, Graphing, and Visualization**
+
     - Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press.
     - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
 
   3. **Probability, Statistics and Econometrics**
+
     - Cunningham, S. (2018) [Causal Inference: The Mixtape](http://scunning.com/cunningham_mixtape.pdf).
     - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
     - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
@@ -120,10 +123,10 @@ A summary of the schedule and assignment deadlines is posted below. Note all ass
 | 1    | 2 Oct  | Module Introduction<br>Problem Framing                   |                                                                   |         |
 | 2    | 9 Oct  | Foundations of Strategy<br>Data Basics and Summarization |                                                                   |         |
 | 3    | 16 Oct | Entrepreneurial Strategy<br>Data and Platform Strategy   | Team Ideas Milestone<br>Optional Team Meetings (17 Oct - 19 Oct)  | —<br>—  |
-| 4    | 23 Oct | Experiments I<br>Experiments II                          |                                                                   |         |
-| 5    | 30 Oct | Regression<br>Causal Graphing I                          |                                                                   |         |
+| 4    | 23 Oct | Experiments                                              |                                                                   |         |
+| 5    | 30 Oct | Regression<br>Causal Graphs I                            |                                                                   |         |
 |      |        | Reading Week                                             |                                                                   |         |
-| 6    | 13 Nov | Causal Graphing II<br>Causal Models I                    | Team Draft Milestone <br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—  |
+| 6    | 13 Nov | Causal Graphs II<br>Causal Models I                      | Team Draft Milestone <br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—  |
 | 7    | 20 Nov | Causal Models II                                         |                                                                   |         |
 | 8    | 27 Nov | Causal Models III                                        |                                                                   |         |
 | 9    | 4 Dec  | Data Ethics                                              | Individual Assignment (due 7 Dec 10:00)                           | 60%     |
