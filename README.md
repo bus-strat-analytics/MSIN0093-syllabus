@@ -6,7 +6,7 @@
   - Office hours: Wednesdays, [15:00 to 16:30](https://calendly.com/anildoshi/office_hours), and by appointment.
 
 ## Module Details
-  - Module ID: MSIN0093 ([UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=38023))
+  - Module ID: MSIN0093 ([UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=5952)
   - [Module description](https://www.mgmt.ucl.ac.uk/modules/msing051-business-strategy-and-analytics)
   - Offered: Fall 2018, Term 1
   - TAs (Office hours by appointment. Please email to schedule.)
