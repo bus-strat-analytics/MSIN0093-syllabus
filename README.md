@@ -25,7 +25,7 @@
 
   With that in mind, I may cold or "warm" (where students whose names are on the board in the beginning of class are on notice and will be asked to participate in the discussion at certain points) call in class. I understand that some people may find public speaking challenging for a variety of reasons. If this is the case, please see me.
 
-  4. **Technology.** tl/dr:
+  4. **Technology.**
       - Phones. Mute/off and placed in bags or packs i.e. far away from your hands
       - Laptops.
         + During discussions/lectures: no laptops (if you have circumstances requiring an exception, please see me)
