@@ -25,11 +25,18 @@
 
   With that in mind, I may cold or "warm" (where students whose names are on the board in the beginning of class are on notice and will be asked to participate in the discussion at certain points) call in class. I understand that some people may find public speaking challenging for a variety of reasons. If this is the case, please see me.
 
-  4. **Technology.** Phones need to be on mute or off and placed in bags, packs, or pockets out of view.
+  4. **Technology.** tl/dr:
+      - Phones. Mute/off and placed in bags or packs i.e. far away from your hands
+      - Laptops.
+        + During discussions/lectures: no laptops (if you have circumstances requiring an exception, please see me)
+        + During lab sessions: OK
+      - Tablets. Flat on desk with wifi off i.e. use like a notebook
 
-  Evidence suggests that laptops and screens harm learning. With that in mind it is my preference that you do not use your laptop during discussions.
+The phone policy does not need an explanation. In the classroom, they are a distraction and detrimental to your learning and contribution to the class. By the way, when you think you are being slick with your hands below the desk and your head down, I know what you are doing.
 
-  If you use your laptop/tablet, then wifi must be off (i.e. solely for notetaking).
+Regarding laptops, evidence suggests that laptops and screens harm the learning of both the laptop user and peers sitting in the vicinity. There is enough infrastructure in the class that you do not need your laptop.
+
+A tablet with a stylus mimics the notetaking experience as long as it is flat on the table with wifi off.
 
   5. **Class Norms.** I would like to make explicit some norms that I hope are embraced in the classroom.
       - Arrive to class on time and prepared to contribute
@@ -124,9 +131,9 @@ A summary of the schedule and assignment deadlines is posted below. Note all ass
 | 4    | 23 Oct | Experiments                                              |                                                                   |         |
 | 5    | 30 Oct | Regression<br>Causal Graphs I                            |                                                                   |         |
 |      |        | Reading Week                                             |                                                                   |         |
-| 6    | 13 Nov | Causal Graphs II<br>Causal Models I                      | Team Draft Milestone <br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—  |
-| 7    | 20 Nov | Causal Models II                                         |                                                                   |         |
-| 8    | 27 Nov | Causal Models III                                        |                                                                   |         |
+| 6    | 13 Nov | Causal Graphs II<br>Causal Analysis I                      | Team Draft Milestone <br>Optional Team Meetings (14 Nov - 16 Nov) | —<br>—  |
+| 7    | 20 Nov | Causal Analysis II                                         |                                                                   |         |
+| 8    | 27 Nov | Causal Analysis III                                        |                                                                   |         |
 | 9    | 4 Dec  | Data Ethics                                              | Individual Assignment (due 7 Dec 10:00)                           | 60%     |
 | 10   | 11 Dec | Group Presentations<br>Module Wrap Up and Evaluations    | Team Project (Slides and Writeup) (Due 14 Dec 10:00)              | 40%     |
 
