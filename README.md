@@ -32,12 +32,6 @@
         + During lab sessions: OK
       - Tablets. Flat on desk with wifi off i.e. use like a notebook
 
-The phone policy does not need an explanation. In the classroom, they are a distraction and detrimental to your learning and contribution to the class. By the way, when you think you are being slick with your hands below the desk and your head down, I know what you are doing.
-
-Regarding laptops, evidence suggests that laptops and screens harm the learning of both the laptop user and peers sitting in the vicinity. There is enough infrastructure in the class that you do not need your laptop.
-
-A tablet with a stylus mimics the notetaking experience as long as it is flat on the table with wifi off.
-
   5. **Class Norms.** I would like to make explicit some norms that I hope are embraced in the classroom.
       - Arrive to class on time and prepared to contribute
       - Take risks with your ideas
