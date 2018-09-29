@@ -65,10 +65,8 @@ The project will consist of three milestones:
   Your team may choose one of the following types of projects. The project scope is flexible. If your team find that what you would like to do does not easily fit into either project type, I invite you to discuss your idea with me.
 
   1. **Data project.** You are the data team of your firm and you are presenting a research project to executive management as a means for better understanding a strategic aspect of the company, transactions, relationships between various activities of users, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on agenda).
-
-  2. **Client project.** There will be an opportunity to work on a data science project using a dataset from affiliated organizations. These projects will effectively be follow on work to dissertation projects from prior years' students. Details will be provided in class on how these data projects will run.
   
-  3. **Data-based business proposal.** You are a startup team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves some data-based element as part of its services, business model, or strategy formation. Craft a business plan and pay particular attention to how the concepts in this module relate to the value proposition of your startup.
+  2. **Data-based business proposal.** You are a startup team and you are pitching a new business idea to an audience of startup mentors and investors. Your startup involves some data-based element as part of its services, business model, or strategy formation. Craft a business plan and pay particular attention to how the concepts in this module relate to the value proposition of your startup.
   
 ## Honor Code
 By taking Business Strategy and Analytics at the UCL School of Management, you are agreeing to maintain a high level of professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the university's code of conduct.
