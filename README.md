@@ -3,7 +3,7 @@
 ## Instructor: [Anil Doshi](http://www.anilrdoshi.com)
   - Office: Canary Wharf (Office SW6)
   - Email: anil[dot]doshi[at]ucl[dot]ac[dot]uk
-  - Office hours: Wednesdays, [15:00 to 16:30](https://calendly.com/anildoshi/office_hours), and by appointment.
+  - Office hours: Wednesdays, [16:00 to 17:30](https://calendly.com/anildoshi/office_hours), and by appointment.
 
 ## Module Details
   - Module ID: MSIN0093 ([UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=5952)
@@ -100,8 +100,8 @@ Here is a selection of books to complement what you will see during the term.
 
 1. **Strategy and Economics**
   - Grant, R. M. (2016). Contemporary Strategy Analysis. UK: John Wiley & Sons Ltd.
-  - Zenger, T. (2016). Beyond Competitive Advantage. Boston, MA: Harvard Business Review Press.
   - Harris, J. and Lenox, M. (2013). The Strategist's Toolkit. Virginia, USA: Darden Business Publishing.
+  - Zenger, T. (2016). Beyond Competitive Advantage. Boston, MA: Harvard Business Review Press.
 
 2. **Data Summarization, Graphing, and Visualization**
   - Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press.
