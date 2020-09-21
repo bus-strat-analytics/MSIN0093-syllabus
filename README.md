@@ -34,12 +34,12 @@
       - Take risks with your ideas
       - Speak in class if you have a question
       - Embrace failure and the iterative nature of learning and discovery
-      - And finally, *do not* wait until you have *the perfect* comment to raise your hand and speak in class
+      - And finally, do not wait until you have the perfect comment to raise your hand and speak in class
 
-  6. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please email me the name of your guest the day before class. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers during the class.
+<!-- Commentig out guest and food/drink rules for online term -->
+<!--   6. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please email me the name of your guest the day before class. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers during the class.
 
-  <!-- Commenting out food/drink rules for online term -->
-  <!-- 7. **Food and Drink.** In line with the UCL School of Management norms, please refrain from bringing food or drinks (water bottles are OK) into the class. -->
+  7. **Food and Drink.** In line with the UCL School of Management norms, please refrain from bringing food or drinks (water bottles are OK) into the class. -->
   
 ## Assessment
 Assessment is based on an individual assignment (60%) and a team project (40%). Details of the assignments are provided in Moodle. Deadlines are posted in the [schedule](#schedule).
@@ -65,25 +65,25 @@ There are no required books assigned for class. Here is a selection of books to 
   - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
   - Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch (2016). [Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice). World Bank Group.
   - Glennerster, Rachel and K. Takavarasha (2013). Running Randomized Evaluations: A Practical Guide. Princeton: Princeton University Press.
-  - Hernan, M. A. and J. M. Robins (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+  <!-- - Hernan, M. A. and J. M. Robins (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) -->
 
 ## Schedule
 A summary of the schedule and assignment deadlines is posted below.
 
-| Week | Strategy                 | Analytics                    | Deadline                                  |
-| ---: | :----                    | :----                        | :----                                     |
-| 1    | Business models          | Data wrangling               |                                           |
-| 2    | Foundations of Strategy  | Descriptive analytics        |                                           |
-| 3    | Organizational culture   | Surveys                      |                                           |
-| 4    | Organizational design    | Networks                     |                                           |
-| 5    | Financial performance    | Associations and predictions |                                           |
-| 6    | Entrepreneurial strategy | Experiments                  |                                           |
-| 7    | Platforms                | Causal modelling             |                                           |
-| 8    | Data-based businesses    | Observational data I         |                                           |
-| 9    | Diversification          | Observational data II        | Individual assignment due Friday 10:00 UK |
-| 10   | Data ethics              |                              | Team project due Friday 10:00 UK          |
+| Week | Strategy                 | Analytics             | Deadline                                  |
+| ---: | :----                    | :----                 | :----                                     |
+| 1    | Business models          | Data wrangling        |                                           |
+| 2    | External environment     | Descriptive analytics |                                           |
+| 3    | Inside the firm          | Surveys               |                                           |
+| 4    | Organizational design    | Networks              |                                           |
+| 5    | Financial performance    | Regression            |                                           |
+| 6    | Entrepreneurial strategy | Experiments           |                                           |
+| 7    | Platforms                | Causal modelling      |                                           |
+| 8    | Data-based businesses    | Observational data I  | Individual assignment due Friday 10:00 UK |
+| 9    | Diversification          | Observational data II |                                           |
+| 10   | The strategy leader      | Data ethics           | Team project due Friday 10:00 UK          |
 
 
 
 ## Reading List
-Please visit the [UCL Reading List](https://rl.talis.com/3/ucl/lists/648139E3-9776-DFC9-7FB9-21FA6B11DB7E.html?lang=en-US&login=1) to see the readings for this module.
+Please visit the [UCL Reading List](https://rl.talis.com/3/ucl/lists/317C9D73-199E-9A8F-0167-48B5DFD39594.html) to see the readings for this module.
