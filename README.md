@@ -60,8 +60,8 @@ There are no required books assigned for class. Here is a selection of books to 
 
 2. **Analytics**
   - Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press.
-  - Cunningham, S. (2018) [Causal Inference: The Mixtape](http://scunning.com/cunningham_mixtape.pdf).
-  - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
+  - Cunningham, S. (2018) [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html).
+  - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://leanpub.com/openintro-statistics). OpenIntro.
   - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
   - Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch (2016). [Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice). World Bank Group.
   - Glennerster, Rachel and K. Takavarasha (2013). Running Randomized Evaluations: A Practical Guide. Princeton: Princeton University Press.
@@ -95,7 +95,6 @@ For most weeks, you will be asked to read and prepare a mini-case. Each week, th
 | 7    | LoveMyPet—Causal Modelling of Platform Strategies         |
 | 8    | ProLinked—Estimating the Effect of Recommendations        |
 | 9    | RevCo's Shopper's Club—Acquisition Synergies              |
-| 10   |                                                            |
 
 ## Reading List
 Please visit the [UCL Reading List](https://rl.talis.com/3/ucl/lists/317C9D73-199E-9A8F-0167-48B5DFD39594.html) to see the readings for this module.
