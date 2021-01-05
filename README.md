@@ -83,7 +83,19 @@ A summary of the schedule and assignment deadlines is posted below.
 | 9    | Diversification          | Observational data II |                                           |
 | 10   | The strategy leader      | Data ethics           | Team project due Friday 10:00 UK          |
 
-
+For most weeks, you will be asked to read and prepare a mini-case. Each week, the mini-cases will serve as the basis of our in-class discussion and exercise. Reading the mini-case in advance and considering the exercise before you come to class are a critical part of your preparation.
+| Week | Mini-Case                                                  |
+| ---: | :----                                                      |
+| 1    | Homegrown—The (Data) Structure of a Business Model        |
+| 2    | Home Depot's Changing Environment                          |
+| 3    | UCL School of Management Cohort Survey                     |
+| 4    | IdeaWeb—Understanding Workplace Networks                  |
+| 5    | Airbus A380—Data-Driven Decision Making... Under Pressure |
+| 6    | Opinionistas—One Idea, Multiple Strategies                |
+| 7    | LoveMyPet—Causal Modelling of Platform Strategies         |
+| 8    | ProLinked—Estimating the Effect of Recommendations        |
+| 9    | RevCo's Shopper's Club—Acquisition Synergies              |
+| 10   |                                                            |
 
 ## Reading List
 Please visit the [UCL Reading List](https://rl.talis.com/3/ucl/lists/317C9D73-199E-9A8F-0167-48B5DFD39594.html) to see the readings for this module.
