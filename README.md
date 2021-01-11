@@ -88,7 +88,7 @@ For most weeks, you will be asked to read and prepare a mini-case. Each week, th
 | ---: | :----                                                      |
 | 1    | Homegrown—The (Data) Structure of a Business Model        |
 | 2    | Home Depot's Changing Environment                          |
-| 3    | UCL School of Management Cohort Survey                     |
+| 3    | School of Management Cohort Survey                     |
 | 4    | IdeaWeb—Understanding Workplace Networks                  |
 | 5    | Airbus A380—Data-Driven Decision Making... Under Pressure |
 | 6    | Opinionistas—One Idea, Multiple Strategies                |
