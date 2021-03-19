@@ -54,41 +54,41 @@ If you want to look for an existing dataset for various assignments, I have asse
 There are no required books assigned for class. Here is a selection of books to complement what you will see during the term.
 
 1. **Strategy**
-  - Grant, R. M. (2016). Contemporary Strategy Analysis. UK: John Wiley & Sons Ltd.
-  - Puranam, P. and B. Vanneste (2016). Corporate Strategy. Cambridge, UK: Cambridge University Press.
-  - Zenger, T. (2016). Beyond Competitive Advantage. Boston, MA: Harvard Business Review Press.
+  - Grant, R. M. (2016). Contemporary Strategy Analysis. UK: John Wiley & Sons Ltd. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167506610004761&institutionId=4761&customerId=4760)
+  - Puranam, P. and B. Vanneste (2016). Corporate Strategy. Cambridge, UK: Cambridge University Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167506030004761&institutionId=4761&customerId=4760)
+  - Zenger, T. (2016). Beyond Competitive Advantage. Boston, MA: Harvard Business Review Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167506460004761&institutionId=4761&customerId=4760)
 
 2. **Analytics**
-  - Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press.
+  - Angrist, J.D. and J. Pischke. (2014). Mastering 'Metrics: The Path from Cause to Effect. Princeton: Princeton University Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167505990004761&institutionId=4761&customerId=4760)
   - Cunningham, S. (2018) [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html).
   - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://leanpub.com/openintro-statistics). OpenIntro.
   - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
   - Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch (2016). [Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice). World Bank Group.
-  - Glennerster, Rachel and K. Takavarasha (2013). Running Randomized Evaluations: A Practical Guide. Princeton: Princeton University Press.
+  - Glennerster, Rachel and K. Takavarasha (2013). Running Randomized Evaluations: A Practical Guide. Princeton: Princeton University Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167505660004761&institutionId=4761&customerId=4760)
   <!-- - Hernan, M. A. and J. M. Robins (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) -->
 
 ## Schedule
-A summary of the schedule and assignment deadlines is posted below.
+A summary of the schedule and assessments is posted below.
 
-| Week | Strategy                 | Analytics             | Deadline                                  |
-| ---: | :----                    | :----                 | :----                                     |
-| 1    | Business models          | Data wrangling        |                                           |
-| 2    | External environment     | Descriptive analytics |                                           |
-| 3    | Inside the firm          | Surveys               |                                           |
-| 4    | Organizational design    | Networks              |                                           |
-| 5    | Financial performance    | Regression            |                                           |
-| 6    | Entrepreneurial strategy | Experiments           |                                           |
-| 7    | Platforms                | Causal modelling      |                                           |
-| 8    | Data-based businesses    | Observational data I  | Individual assignment due Friday 10:00 UK |
-| 9    | Diversification          | Observational data II |                                           |
-| 10   | The strategy leader      | Data ethics           | Team project due Friday 10:00 UK          |
+| Week | Strategy                 | Analytics             | Deadlines                         |
+| ---: | :----                    | :----                 | :----                             |
+| 1    | Business models          | Data wrangling        |                                   |
+| 2    | External environment     | Descriptive analytics |                                   |
+| 3    | Inside the firm          | Surveys               |                                   |
+| 4    | Organizational design    | Networks              | Assignment #1 due Friday 10:00 UK |
+| 5    | Financial performance    | Regression            |                                   |
+| 6    | Entrepreneurial strategy | Experiments           |                                   |
+| 7    | Platforms                | Causal modelling      | Team project due Friday 10:00 UK  |
+| 8    | Data-based businesses    | Observational data I  |                                   |
+| 9    | Diversification          | Observational data II |                                   |
+| 10   | The strategy leader      | Data ethics           | Assignment #2 due Friday 10:00 UK |
 
 For most weeks, you will be asked to read and prepare a mini-case. Each week, the mini-cases will serve as the basis of our in-class discussion and exercise. Reading the mini-case in advance and considering the exercise before you come to class are a critical part of your preparation.
 | Week | Mini-Case                                                  |
 | ---: | :----                                                      |
 | 1    | Homegrown—The (Data) Structure of a Business Model        |
 | 2    | Home Depot's Changing Environment                          |
-| 3    | School of Management Cohort Survey                     |
+| 3    | School of Management Cohort Survey                         |
 | 4    | IdeaWeb—Understanding Workplace Networks                  |
 | 5    | Airbus A380—Data-Driven Decision Making... Under Pressure |
 | 6    | Opinionistas—One Idea, Multiple Strategies                |
