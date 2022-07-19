@@ -3,15 +3,12 @@
 ## Instructor: [Anil Doshi](http://www.anilrdoshi.com)
   - Office: Canary Wharf (Office SW6)
   - Email: anil[dot]doshi[at]ucl[dot]ac[dot]uk
-  - Office hours: by appointment
 
 ## Module Details
   - Module ID: MSIN0093 ([UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=5952))
   - Offered: Fall 2020, Term 1.
   - TAs:
-    + Andrew Montandon (a[dot]montandon[at]ucl[dot]ac[dot]uk)
-    + Pavlo Ulianiuk
-    + Office Hours (CW): by appointment
+    + Pavlo Ulianiuk (p[dot]ulianiuk[at]ucl[dot]ac[dot]uk)
 
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
@@ -60,7 +57,7 @@ There are no required books assigned for class. Here is a selection of books to 
   - Zenger, T. (2016). Beyond Competitive Advantage. Boston, MA: Harvard Business Review Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167506460004761&institutionId=4761&customerId=4760)
 
 2. **Analytics**
-  - Cunningham, S. (2018) [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html).
+  - Cunningham, S. (2018) [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html). Python code for textbook examples can be found on [Github](https://github.com/tomcaputo/mixtape_learnr/tree/main/Python).
   - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://leanpub.com/openintro-statistics). OpenIntro.
   - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
   - Gábor, B. and G. Kézdi (2021). [Data Analysis for Business Economics and Policy](https://gabors-data-analysis.com). Cambridge, UK: Cambridge University Press.
@@ -78,9 +75,9 @@ A summary of the schedule and assessments is posted below.
 | 4    | Organizational design    | Networks              |                                         |
 | 5    | Financial performance    | Regression            |                                         |
 | 6    | Entrepreneurial strategy | Experiments           |                                         |
-| 7    | Platforms                | Causal modelling      | Team project (35%) due Friday 10:00 UK  |
+| 7    | Platforms                | Causal modelling      |                                         |
 | 8    | Data-based businesses    | Observational data I  |                                         |
-| 9    | Diversification          | Observational data II |                                         |
+| 9    | Diversification          | Observational data II | Team project (35%) due Friday 10:00 UK  |
 | 10   | The strategy leader      | Data ethics           | Assignment #2 (40%) due Friday 10:00 UK |
 
 
@@ -99,4 +96,4 @@ For most weeks, you will be asked to read and prepare a mini-case. Each week, th
 | 9    | RevCo's Shopper's Club—Acquisition Synergies              |
 
 ## Reading List
-Please visit the [UCL Reading List](https://rl.talis.com/3/ucl/lists/317C9D73-199E-9A8F-0167-48B5DFD39594.html) to see the readings for this module.
+Please visit the [UCL Reading List](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html) to see the readings for this module.
