@@ -9,6 +9,8 @@
   - Offered: Fall 2020, Term 1.
   - TAs:
     + Pavlo Ulianiuk (p[dot]ulianiuk[at]ucl[dot]ac[dot]uk)
+    + Jingze Wang (jingze[dot]wang[dot]21[at]ucl[dot]ac[dot]uk)
+    + Joe Myers (joe[dot]myers[at]ucl[dot]ac[dot]uk)
 
 ## Policies
   1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
