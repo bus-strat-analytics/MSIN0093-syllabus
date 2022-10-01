@@ -65,11 +65,6 @@ Assessment is integral to learning and teaching; it must be used as a method of 
 
 All modules have an approved format, duration, and/or length of their assessment(s). Modules may also sometimes be provided at different FHEQ levels, and as such should have differentiated assessment patterns for each FHEQ level they offer (even if all levels are taught together). 
 
-## Datasets and Data Repositories
-If you want to look for an existing dataset for various assignments, I have assembled an list of [data sources](https://github.com/bus-strat-analytics/data-sources) you can use as an initial point for your search.
-
-I encourage you to explore these data sources. There are many interesting datasets here that will pull your project ideas in different directions (and move you away from the standard Kaggle dataset).
-
 ## Weekly Requirements
 In the class [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page, you will find the following resources for each week:
   - This Week's Resources. Contains slides for the online video lectures, weekly readings, and other information that is relevant to the week.
@@ -101,6 +96,11 @@ A summary of the weekly topics and mini-cases is posted below.
 | 8    | Data-based businesses    | Observational data I  | ProLinked—Estimating the Effect of Recommendations        |
 | 9    | Diversification          | Observational data II | RevCo's Shopper's Club—Acquisition Synergies              |
 | 10   | The strategy leader      | Data ethics           |                                                           |
+
+## Datasets and Data Repositories
+If you want to look for an existing dataset for various assignments, I have assembled an list of [data sources](https://github.com/bus-strat-analytics/data-sources) you can use as an initial point for your search.
+
+I encourage you to explore these data sources. There are many interesting datasets here that will pull your project ideas in different directions (and move you away from the standard Kaggle dataset).
 
 ## Recommended Books
 There are no required books assigned for class. Here is a selection of books to complement what you will see during the term.
