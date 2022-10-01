@@ -1,54 +1,106 @@
 # Business Strategy and Analytics Syllabus
 
-## Instructor: [Anil Doshi](http://www.anilrdoshi.com)
-  - Office: Canary Wharf (Office SW6)
-  - Email: anil[dot]doshi[at]ucl[dot]ac[dot]uk
+## Teaching Team (contact details on [Moodle]((https://moodle.ucl.ac.uk/course/view.php?id=30038)))
+
+### Instructor: [Anil Doshi](http://www.anilrdoshi.com)
+
+### Teaching Assistants
+  - Pavlo Ulianiuk
+  - Jingze Wang
+  - Joe Myers
+
+When contacting members of staff by email, students should always
+  - Ensure that they use their UCL email account, 
+  - Include their full name and student number in any correspondence 
 
 ## Module Details
-  - Module ID: MSIN0093 ([UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=5952))
-  - Offered: Fall 2020, Term 1.
-  - TAs:
-    + Pavlo Ulianiuk (p[dot]ulianiuk[at]ucl[dot]ac[dot]uk)
-    + Jingze Wang (jingze[dot]wang[dot]21[at]ucl[dot]ac[dot]uk)
-    + Joe Myers (joe[dot]myers[at]ucl[dot]ac[dot]uk)
+  - Module ID: MSIN0093
+  - Offered: Term 1
+  - Meeting Times: see module [timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MSIN0093&acadYearFl=N)
+  - Links to module resources:
+    + [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038)
+    + [UCL Module Catalog](https://www.ucl.ac.uk/module-catalogue/modules/business-strategy-and-analytics-MSIN0093)
+    + [UCL Module Timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MSIN0093&acadYearFl=N)
+    + [UCL Reading List](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html)
 
 ## Policies
-  1. **Attendance.** Attendance is critical. If you have extenuating circumstances that are going to keep you out of class, please inform me in advanced as early as possible.
-  
-  2. **Class decorum.** Treat our time in the classroom as you would meeting with the executive team or board of directors of your company. This means listening to and respecting the perspectives of your peers. It also means speaking up and engaging with the discussion.
 
-  3. **Class participation.** This module depends on the participation of all the students. Active engagement (i.e. actively discussing and listening to your classmates' points) promotes a more lively discussion and debate. It is in the exchange of ideas that new and interesting ways of thinking about the concepts in the module emerge.
+### Attendance
+Students are reminded that attendance at all sessions is compulsory and is constantly monitored. Students who fall beneath the minimum attendance requirement may be subject to barring, suspension or termination of study. Students should refer to the [online timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MSIN0093&acadYearFl=N) for details of venues for teaching, and for the timing of lectures and/or seminar groups, labs or other additional sessions which are integral to the module delivery.
 
-  With that in mind, speaking and presenting in class is an important part of the learning model. I understand that some people may find public speaking challenging for a variety of reasons. If this is the case, please get in touch with me.
+### Connected Learning
+All students are expected to play an active role in their own learning. The more you put into your studies by engaging with the readings and preparatory materials, the more you will take away from the module.
+Individual contributions to the classroom environment will form an important part of your programme experience. In recognition of this, you are encouraged to play an active role in class, by making appropriate contributions, answering questions and asking questions yourself. There are two important principles behind this:
+  - To facilitate an environment whereby students can share relevant thoughts, insights and experiences which advance discussions and the general learning in class.
+  - To assist in the development of your skills in being able to ‘think on your feet,’ develop a succinct argument as well as learning how to challenge peers in a constructive way. Such skills will serve you well throughout your career.
 
-  4. **Technology.**
-      - Phones. Mute/off and placed in bags or packs i.e. far away from your hands
-      - Laptops.
-        + During discussions/lectures: no laptops (if you have circumstances requiring an exception, please see me)
-        + During lab sessions: OK
-      - Tablets. Flat on desk with wifi off i.e. use like a notebook
+High-quality contributions are meaningful, thoughtful, relevant remarks or questions that enhance everyone’s understanding of the case or concepts discussed, and do not have to be “correct.” In fact, seemingly erroneous comments can be highly valuable as well. If by nature you are a quiet person and would like to be called upon in class, please let us know and we will help draw you into the class discussions.
 
-  5. **Class Norms.** I would like to make explicit some norms that I hope are embraced in the classroom.
-      - Arrive to class on time and prepared to contribute
-      - Take risks with your ideas
-      - Speak in class if you have a question
-      - Embrace failure and the iterative nature of learning and discovery
-      - And finally, do not wait until you have the perfect comment to raise your hand and speak in class
+### Student Code of Conduct
+Students are also expected to follow [UCL’s Code of Conduct for Students](https://www.ucl.ac.uk/academic-manual/chapters/chapter-6-student-casework-framework/section-1-code-conduct-students), particularly;
+  - Being punctual for classes, labs, seminars and other appointments
+  - Informing the relevant person if you are going to be absent or delayed for an activity where you are expected to attend
+  - Being aware of the advice and assistance available on academic and other matters from sources such as personal, programme and Departmental Tutors
+  - Seeking help for yourself when you need it
 
-  6. **Guests.** Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please email me the name of your guest before class. At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers during the class.
+Students should also complete any required exercises, pre-reading or other additional tasks prior to each session, so that you arrive ready to engage with the lesson objectives and learning outcomes, and your peers.
 
-  7. **Food and Drink.** In line with the UCL School of Management norms, please refrain from bringing food or drinks (water bottles are OK) into the class.
+### Technology
+  - **Phones**. Mute/off and placed in bags or packs i.e. far away from your hands
+  - **Laptops**
+    + During discussions/lectures: no laptops (if you have circumstances requiring an exception, please see me)
+    + During lab sessions: OK
+  - **Tablets**. Flat on desk with wifi off i.e. use like a notebook
+
+### Guests
+Guests are welcome to attend class. Friends, colleagues who are interested in the program, and family are all invited. Please email me the name of your guest at least one day before class (to ensure they have access to the building). At the start of class I will ask you to introduce the guest to your peers and I encourage the class to make our guests feel welcome. I request that you inform your guests to remain as observers during the class.
+
+### Food and Drink
+In line with the UCL School of Management norms, please refrain from bringing food or hot drinks (water bottles are OK) into the class.
   
 ## Assessment
-Assessment is based on two individual assignments (25%+40%) and a team project (35%). Details of the assignments are provided in Moodle. Deadlines are posted in the [schedule](#schedule).
+Assessment is based on two individual assignments (25%+40%) and a team project (35%). Deadlines and details of the assignments are provided in [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038). A numeric mark scheme is used for this module.
 
-## Honor Code
-By taking Business Strategy and Analytics at the UCL School of Management, you are agreeing to maintain a high level of professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the university's code of conduct.
+Assessment is integral to learning and teaching; it must be used as a method of developing students’ knowledge and understanding, as well as measuring attainment. Assessment tasks must enable students to demonstrate the extent to which they have attained or exceeded the intended learning outcomes. 
+
+All modules have an approved format, duration, and/or length of their assessment(s). Modules may also sometimes be provided at different FHEQ levels, and as such should have differentiated assessment patterns for each FHEQ level they offer (even if all levels are taught together). 
 
 ## Datasets and Data Repositories
 If you want to look for an existing dataset for various assignments, I have assembled an list of [data sources](https://github.com/bus-strat-analytics/data-sources) you can use as an initial point for your search.
 
 I encourage you to explore these data sources. There are many interesting datasets here that will pull your project ideas in different directions (and move you away from the standard Kaggle dataset).
+
+## Weekly Requirements
+In the class [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page, you will find the following resources for each week:
+  - This Week's Resources. Contains slides for the online video lectures, weekly readings, and other information that is relevant to the week.
+  - Video Lectures. These are two "books" that contain a series of video lectures for (A) strategy and (B) analytics. Each "book" is a series of videos (organized as "chapters"). Use the right hand side navigation (or the arrows) to navigate through all the videos.
+  - Class Preparation. This section contains materials you will need to have ready when you walk into class. Typically, this will include the mini-case and any software or web applications you will need to set up.
+
+Each week, you must complete the following **before** class:
+  - Watch the lecture videos. These videos are your required "reading" each week.
+  - In the Class Participation section, read the mini-case and make sure you have set up any software or web applications we need for that week.
+    + For most weeks, you will be asked to read and prepare a mini-case. Each week, the mini-cases will serve as the basis of our in-class discussion and exercise. Reading the mini-case in advance and considering the exercise before you come to class are a critical part of your preparation.
+  - Note: the weekly readings in the reading list are **not** mandatory. They are there for your reference if you need an additional resource or you want to take a deeper dive into the material.
+
+After each lecture, I will post:
+  - The Lecturecast of the class session.
+  - Whiteboard notes and wrap-up slides.
+
+## Schedule
+A summary of the weekly topics and mini-cases is posted below.
+
+| Week | Strategy                 | Analytics             | Mini-Case                                                 |
+| ---: | :----                    | :----                 | :----                                                     |
+| 1    | Business models          | Data wrangling        | Homegrown—The (Data) Structure of a Business Model        |
+| 2    | External environment     | Descriptive analytics | Home Depot's Changing Environment                         |
+| 3    | Inside the firm          | Surveys               | School of Management Cohort Survey                        |
+| 4    | Organizational design    | Networks              | IdeaWeb—Understanding Workplace Networks                  |
+| 5    | Financial performance    | Regression            | Airbus A380—Data-Driven Decision Making... Under Pressure |
+| 6    | Entrepreneurial strategy | Experiments           | Opinionistas—One Idea, Multiple Strategies                |
+| 7    | Platforms                | Causal modelling      | LoveMyPet—Causal Modelling of Platform Strategies         |
+| 8    | Data-based businesses    | Observational data I  | ProLinked—Estimating the Effect of Recommendations        |
+| 9    | Diversification          | Observational data II | RevCo's Shopper's Club—Acquisition Synergies              |
+| 10   | The strategy leader      | Data ethics           |                                                           |
 
 ## Recommended Books
 There are no required books assigned for class. Here is a selection of books to complement what you will see during the term.
@@ -66,36 +118,16 @@ There are no required books assigned for class. Here is a selection of books to 
   - Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch (2016). [Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice). World Bank Group.
   - Glennerster, Rachel and K. Takavarasha (2013). Running Randomized Evaluations: A Practical Guide. Princeton: Princeton University Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167505660004761&institutionId=4761&customerId=4760)
 
-## Schedule
-A summary of the schedule and assessments is posted below.
+## Time Commitment
+This module is worth 15 credits. For this module, the expected time commitment is as follows:
 
-| Week | Strategy                 | Analytics             | Deadlines                               |
-| ---: | :----                    | :----                 | :----                                   |
-| 1    | Business models          | Data wrangling        |                                         |
-| 2    | External environment     | Descriptive analytics |                                         |
-| 3    | Inside the firm          | Surveys               | Assignment #1 (25%) due Friday 10:00 UK |
-| 4    | Organizational design    | Networks              |                                         |
-| 5    | Financial performance    | Regression            |                                         |
-| 6    | Entrepreneurial strategy | Experiments           |                                         |
-| 7    | Platforms                | Causal modelling      |                                         |
-| 8    | Data-based businesses    | Observational data I  |                                         |
-| 9    | Diversification          | Observational data II | Team project (35%) due Friday 10:00 UK  |
-| 10   | The strategy leader      | Data ethics           | Assignment #2 (40%) due Friday 10:00 UK |
+| Activity    | Workload (in hours) |
+| :----       | :----               |
+| Lectures    | 30                  |
+| Preparation | 40                  |
+| Assignments | 60                  |
+| Revision    | 20                  |
+| Total       | 150                 |
 
+Note: Module credit correlates to the total number of learning hours e.g., a 15-credit module will have 150 hours, or and 30-credit module 300 hours. Each module will break this student learning time down into various activities/content over its duration (which may take the form of ‘contact time’ and ‘independent study’ time). 
 
-For most weeks, you will be asked to read and prepare a mini-case. Each week, the mini-cases will serve as the basis of our in-class discussion and exercise. Reading the mini-case in advance and considering the exercise before you come to class are a critical part of your preparation.
-
-| Week | Mini-Case                                                  |
-| ---: | :----                                                      |
-| 1    | Homegrown—The (Data) Structure of a Business Model        |
-| 2    | Home Depot's Changing Environment                          |
-| 3    | School of Management Cohort Survey                         |
-| 4    | IdeaWeb—Understanding Workplace Networks                  |
-| 5    | Airbus A380—Data-Driven Decision Making... Under Pressure |
-| 6    | Opinionistas—One Idea, Multiple Strategies                |
-| 7    | LoveMyPet—Causal Modelling of Platform Strategies         |
-| 8    | ProLinked—Estimating the Effect of Recommendations        |
-| 9    | RevCo's Shopper's Club—Acquisition Synergies              |
-
-## Reading List
-Please visit the [UCL Reading List](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html) to see the readings for this module.
