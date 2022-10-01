@@ -25,6 +25,32 @@ When contacting members of staff by email, students should always
     + [UCL Module Timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MSIN0093&acadYearFl=N)
     + [UCL Reading List](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html)
 
+## Module Description
+Strategy is making interdependent decisions that result in better outcomes. Organizations are increasingly considering how data can be used to inform strategic thinking and decisions.
+
+In this module, students will investigate data and the organisation from three paths. First, students will grapple with what data represents and how it is structured to build a functional understanding on its uses and limitations. Second, students will cover analytical methods that are useful in studying the impact of strategic decisions. Third, students will look at data and the organization, to understand the strategic value of data itself and wider ethical implications.
+
+The goal is for students not only to learn practical skills and data analytical methods, but also to learn how to critically understand an uncertain problem, provide a framing for it, and arrive at viable solutions.
+
+## Aims
+The core aim of the module is to use data and analytics in the service of forming and testing a theory of the organization. You will learn to form your theory of the organization by integrating the relevant strategy frameworks or perspectives and considering how they evolve over time. You will learn to test your theory of the organization using a diverse set of empirical methods.
+
+A secondary aim of the module is to prepare you to take on leadership roles in your organization by being able to assume a "big picture" and long-term view on your team, organization, and markets.
+
+## Learning Outcomes
+By the end of this module, you are expected to be able to:
+  - Define the components of a business model
+  - Evaluate the position of an organization with respect to its external environment
+  - Evaluate the strategic implications of an organization's resources, culture, and design
+  - Understand how performance is reflected in a company's financial statements
+  - Apply economic principles to incorporate data and data analytics into a company's value proposition
+  - Consider the ethical implications of data applications
+  - Understand the basic structure of a relational database
+  - Use data summarization and visualization to produce first order insights
+  - Design surveys and experiments and analyze the resulting data
+  - Understand the foundations of network analysis
+  - Apply methods on observational data to arrive at causal inferences
+
 ## Policies
 
 ### Attendance
