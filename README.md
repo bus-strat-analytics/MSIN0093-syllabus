@@ -1,6 +1,6 @@
 # Business Strategy and Analytics Syllabus
 
-## Teaching Team (contact details on [Moodle]((https://moodle.ucl.ac.uk/course/view.php?id=30038)))
+## Teaching Team
 
 ### Instructor: [Anil Doshi](http://www.anilrdoshi.com)
 
@@ -8,6 +8,8 @@
   - Pavlo Ulianiuk
   - Jingze Wang
   - Joe Myers
+
+Contact information for Module Leaders (and any Teaching Assistants if applicable) should be provided on the module’s [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page. Module Leaders and Teaching Assistants may also provide details of any Office Hours they may offer or their other preferred methods of contact.
 
 When contacting members of staff by email, students should always
   - Ensure that they use their UCL email account, 
@@ -44,6 +46,9 @@ Students are also expected to follow [UCL’s Code of Conduct for Students](http
   - Seeking help for yourself when you need it
 
 Students should also complete any required exercises, pre-reading or other additional tasks prior to each session, so that you arrive ready to engage with the lesson objectives and learning outcomes, and your peers.
+
+### Academic Integrity
+In line with [UCL regulations](https://www.ucl.ac.uk/academic-manual/), you are expected to maintain the highest levels of [academic integrity](https://www.ucl.ac.uk/students/exams-and-assessments/academic-integrity/about-academic-integrity) in all the work you produce in this module. To esnure you maintain these standards in your work, make sure you are fully informed on all types of [academic misconduct](https://www.ucl.ac.uk/students/exams-and-assessments/academic-integrity/about-academic-misconduct). Ignorance of misconduct is not an excuse.
 
 ### Technology
   - **Phones**. Mute/off and placed in bags or packs i.e. far away from your hands
