@@ -98,7 +98,7 @@ All modules have an approved format, duration, and/or length of their assessment
 
 ## Weekly Requirements
 In the class [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page, you will find the following resources for each week:
-  - This Week's Resources. Contains slides for the online video lectures, weekly readings, and other information that is relevant to the week.
+  - This Week's Resources. Contains slides for the online video lectures, weekly [readings](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html), and other information that is relevant to the week.
   - Video Lectures. These are two "books" that contain a series of video lectures for (A) strategy and (B) analytics. Each "book" is a series of videos (organized as "chapters"). Use the right hand side navigation (or the arrows) to navigate through all the videos.
   - Class Preparation. This section contains materials you will need to have ready when you walk into class. Typically, this will include the mini-case and any software or web applications you will need to set up.
 
@@ -106,7 +106,7 @@ Each week, you must complete the following **before** class:
   - Watch the lecture videos. These videos are your required "reading" each week.
   - In the Class Participation section, read the mini-case and make sure you have set up any software or web applications we need for that week.
     + For most weeks, you will be asked to read and prepare a mini-case. Each week, the mini-cases will serve as the basis of our in-class discussion and exercise. Reading the mini-case in advance and considering the exercise before you come to class are a critical part of your preparation.
-  - Note: the weekly readings in the reading list are **not** mandatory. They are there for your reference if you need an additional resource or you want to take a deeper dive into the material.
+  - Note: the weekly readings in the [reading list](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html) are **not** mandatory. They are there for your reference if you need an additional resource or you want to take a deeper dive into the material.
 
 After each lecture, I will post:
   - The Lecturecast of the class session.
