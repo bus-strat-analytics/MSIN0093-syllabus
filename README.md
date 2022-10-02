@@ -39,7 +39,7 @@ A secondary aim of the module is to prepare you to take on leadership roles in y
 
 ## Learning Outcomes
 By the end of this module, you are expected to be able to:
-  - Define the components of a business model
+  - Define the components of a business model and identify several different types of business models
   - Evaluate the position of an organization with respect to its external environment
   - Evaluate the strategic implications of an organization's resources, culture, and design
   - Understand how performance is reflected in a company's financial statements
