@@ -12,8 +12,8 @@
 Contact information for Module Leaders (and any Teaching Assistants if applicable) should be provided on the module’s [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page. Module Leaders and Teaching Assistants may also provide details of any Office Hours they may offer or their other preferred methods of contact.
 
 When contacting members of staff by email, students should always
-  - Ensure that they use their UCL email account, 
-  - Include their full name and student number in any correspondence 
+  - Ensure that they use their UCL email account,
+  - Include their full name and student number in any correspondence
 
 ## Module Details
   - Module ID: MSIN0093
@@ -26,16 +26,18 @@ When contacting members of staff by email, students should always
     + [UCL Reading List](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html)
 
 ## Module Description
-Strategy is making interdependent decisions that result in better outcomes. Organizations are increasingly considering how data can be used to inform strategic thinking and decisions.
+Strategy is making interdependent decisions that result in better outcomes over time. Organizations are increasingly considering how data can be used to inform strategic thinking and decisions.
 
-In this module, students will investigate data and the organisation from three paths. First, students will grapple with what data represents and how it is structured to build a functional understanding on its uses and limitations. Second, students will cover analytical methods that are useful in studying the impact of strategic decisions. Third, students will look at data and the organization, to understand the strategic value of data itself and wider ethical implications.
-
-The goal is for students not only to learn practical skills and data analytical methods, but also to learn how to critically understand an uncertain problem, provide a framing for it, and arrive at viable solutions.
+In this module, students will investigate data and the organisation from three paths. First, students will build a core foundation in understanding strategic frameworks and how those frameworks interact with one another. Second, students will cover analytical methods that are useful in studying the impact of strategic decisions. Third, students will look at the strategic value of data itself and broader ethical considerations.
 
 ## Aims
 The core aim of the module is to use data and analytics in the service of forming and testing a theory of the organization. You will learn to form your theory of the organization by integrating the relevant strategy frameworks or perspectives and considering how they evolve over time. You will learn to test your theory of the organization using a diverse set of empirical methods.
 
 A secondary aim of the module is to prepare you to take on leadership roles in your organization by being able to assume a "big picture" and long-term view on your team, organization, and markets.
+
+## Key words
+
+Strategy, strategic management, econometrics, descriptive analytics, case method
 
 ## Learning Outcomes
 By the end of this module, you are expected to be able to:
@@ -92,9 +94,9 @@ In line with the UCL School of Management norms, please refrain from bringing fo
 ## Assessment
 Assessment is based on two individual assignments (25%+40%) and a team project (35%). Deadlines and details of the assignments are provided in [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038). A numeric mark scheme is used for this module.
 
-Assessment is integral to learning and teaching; it must be used as a method of developing students’ knowledge and understanding, as well as measuring attainment. Assessment tasks must enable students to demonstrate the extent to which they have attained or exceeded the intended learning outcomes. 
+Assessment is integral to learning and teaching; it must be used as a method of developing students’ knowledge and understanding, as well as measuring attainment. Assessment tasks must enable students to demonstrate the extent to which they have attained or exceeded the intended learning outcomes.
 
-All modules have an approved format, duration, and/or length of their assessment(s). Modules may also sometimes be provided at different FHEQ levels, and as such should have differentiated assessment patterns for each FHEQ level they offer (even if all levels are taught together). 
+All modules have an approved format, duration, and/or length of their assessment(s). Modules may also sometimes be provided at different FHEQ levels, and as such should have differentiated assessment patterns for each FHEQ level they offer (even if all levels are taught together).
 
 ## Weekly Requirements
 In the class [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page, you will find the following resources for each week:
@@ -148,17 +150,16 @@ There are no required books assigned for class. Here is a selection of books to 
   - Gábor, B. and G. Kézdi (2021). [Data Analysis for Business Economics and Policy](https://gabors-data-analysis.com). Cambridge, UK: Cambridge University Press.
   - Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch (2016). [Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice). World Bank Group.
   - Glennerster, Rachel and K. Takavarasha (2013). Running Randomized Evaluations: A Practical Guide. Princeton: Princeton University Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167505660004761&institutionId=4761&customerId=4760)
+  - Huntington-Klein, Nick (2022). [The Effect](https://theeffectbook.net/index.html). Boca Raton, FL: CRC Press.
 
 ## Time Commitment
 This module is worth 15 credits. For this module, the expected time commitment is as follows:
 
-| Activity    | Workload (in hours) |
-| :----       | :----               |
-| Lectures    | 30                  |
-| Preparation | 40                  |
-| Assignments | 60                  |
-| Revision    | 20                  |
-| Total       | 150                 |
+| Activity      | Workload (in hours) |
+| :----         | :----               |
+| Study hours   | 150                 |
+| Contact hours |  30                 |
+| Total         | 180                 |
 
 Note: Module credit correlates to the total number of learning hours e.g., a 15-credit module will have 150 hours, or and 30-credit module 300 hours. Each module will break this student learning time down into various activities/content over its duration (which may take the form of ‘contact time’ and ‘independent study’ time). 
 
