@@ -5,9 +5,10 @@
 ### Instructor: [Anil Doshi](http://www.anilrdoshi.com)
 
 ### Teaching Assistants
+  - Ankit Mehani
+  - Joe Myers
   - Pavlo Ulianiuk
   - Jingze Wang
-  - Joe Myers
 
 Contact information for Module Leaders (and any Teaching Assistants if applicable) should be provided on the module’s [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page. Module Leaders and Teaching Assistants may also provide details of any Office Hours they may offer or their other preferred methods of contact.
 
