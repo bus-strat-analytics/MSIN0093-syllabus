@@ -164,3 +164,4 @@ This module is worth 15 credits. For this module, the expected time commitment i
 
 Note: Module credit correlates to the total number of learning hours e.g., a 15-credit module will have 150 hours, or and 30-credit module 300 hours. Each module will break this student learning time down into various activities/content over its duration (which may take the form of ‘contact time’ and ‘independent study’ time). 
 
+[testing a push]
