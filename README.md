@@ -5,7 +5,6 @@
 ### Instructor: [Anil Doshi](http://www.anilrdoshi.com)
 
 ### Teaching Assistants
-  - Ankit Mehani
   - Joe Myers
   - Pavlo Ulianiuk
   - Jingze Wang
@@ -93,7 +92,7 @@ Guests are welcome to attend class. Friends, colleagues who are interested in th
 In line with the UCL School of Management norms, please refrain from bringing food or hot drinks (water bottles are OK) into the class.
   
 ## Assessment
-Assessment is based on two individual assignments (25%+40%) and a team project (35%). Deadlines and details of the assignments are provided in [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038). A numeric mark scheme is used for this module.
+Assessment is based on one individual assignment, a team project, and a final exam. Deadlines and details of the assignments are provided in [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038). A numeric mark scheme is used for this module.
 
 Assessment is integral to learning and teaching; it must be used as a method of developing students’ knowledge and understanding, as well as measuring attainment. Assessment tasks must enable students to demonstrate the extent to which they have attained or exceeded the intended learning outcomes.
 
@@ -163,5 +162,3 @@ This module is worth 15 credits. For this module, the expected time commitment i
 | Total         | 180                 |
 
 Note: Module credit correlates to the total number of learning hours e.g., a 15-credit module will have 150 hours, or and 30-credit module 300 hours. Each module will break this student learning time down into various activities/content over its duration (which may take the form of ‘contact time’ and ‘independent study’ time). 
-
-[testing a push]
