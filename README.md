@@ -1,4 +1,4 @@
-# Business Strategy and Analytics Syllabus
+# Business Strategy and Analytics Syllabus Fall 2025
 
 ## Teaching Team
 
