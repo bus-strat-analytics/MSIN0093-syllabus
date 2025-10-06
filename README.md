@@ -5,6 +5,7 @@
 ### Instructor: [Anil Doshi](http://www.anilrdoshi.com)
 
 ### Teaching Assistants
+  - Divyansh Agrawal
   - Joe Myers
   - Pavlo Ulianiuk
   - Jingze Wang
@@ -22,7 +23,6 @@ When contacting members of staff by email, students should always
   - Links to module resources:
     + [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038)
     + [UCL Module Catalog](https://www.ucl.ac.uk/module-catalogue/modules/business-strategy-and-analytics-MSIN0093)
-    + [UCL Module Timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MSIN0093&acadYearFl=N)
     + [UCL Reading List](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html)
 
 ## Module Description
