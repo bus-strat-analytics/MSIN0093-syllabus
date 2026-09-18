@@ -21,9 +21,9 @@ When contacting members of staff by email, students should always
   - Offered: Term 1
   - Meeting Times: see module [timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MSIN0093&acadYearFl=N)
   - Links to module resources:
-    + [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038)
+    + [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=59865)
     + [UCL Module Catalog](https://www.ucl.ac.uk/module-catalogue/modules/business-strategy-and-analytics-MSIN0093)
-    + [UCL Reading List](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html)
+    + [UCL Reading List](https://ucl.rl.talis.com/lists/afe56450-8dfc-4ada-8187-27f5d1e0fd83.htmll)
 
 ## Module Description
 Strategy is making interdependent decisions that result in better outcomes over time. Organizations are increasingly considering how data can be used to inform strategic thinking and decisions.
@@ -31,7 +31,7 @@ Strategy is making interdependent decisions that result in better outcomes over 
 In this module, students will investigate data and the organisation from three paths. First, students will build a core foundation in understanding strategic frameworks and how those frameworks interact with one another. Second, students will cover analytical methods that are useful in studying the impact of strategic decisions. Third, students will look at the strategic value of data itself and broader ethical considerations.
 
 ## Aims
-The core aim of the module is to use data and analytics in the service of forming and testing a theory of the organization. You will learn to form your theory of the organization by integrating the relevant strategy frameworks or perspectives and considering how they evolve over time. You will learn to test your theory of the organization using a diverse set of empirical methods.
+The core aim of the module is to use data and analytics in the service of forming and testing a theory of the organization. You will learn to form your theory of the organization by integrating the relevant strategy frameworks or perspectives and considering how they evolve over time. You will learn to test your theory of the organization using experiments as an anlytical framework to guide decisions.
 
 A secondary aim of the module is to prepare you to take on leadership roles in your organization by being able to assume a "big picture" and long-term view on your team, organization, and markets.
 
@@ -45,13 +45,8 @@ By the end of this module, you are expected to be able to:
   - Evaluate the position of an organization with respect to its external environment
   - Evaluate the strategic implications of an organization's resources, culture, and design
   - Understand how performance is reflected in a company's financial statements
-  - Apply economic principles to incorporate data and data analytics into a company's value proposition
-  - Consider the ethical implications of data applications
-  - Understand the basic structure of a relational database
-  - Use data summarization and visualization to produce first order insights
-  - Design surveys and experiments and analyze the resulting data
-  - Understand the foundations of network analysis
-  - Apply methods on observational data to arrive at causal inferences
+  - Design experiments
+  - Understand how to manage data analysis in an experiment
 
 ## Policies
 
@@ -80,9 +75,7 @@ In line with [UCL regulations](https://www.ucl.ac.uk/academic-manual/), you are 
 
 ### Technology
   - **Phones**. Mute/off and placed in bags or packs i.e. far away from your hands
-  - **Laptops**
-    + During discussions/lectures: no laptops (if you have circumstances requiring an exception, please see me)
-    + During lab sessions: OK
+  - **Laptops**. Laptops are only permitted when notified by the instructor
   - **Tablets**. Flat on desk with wifi off i.e. use like a notebook
 
 ### Guests
@@ -99,36 +92,30 @@ Assessment is integral to learning and teaching; it must be used as a method of 
 All modules have an approved format, duration, and/or length of their assessment(s). Modules may also sometimes be provided at different FHEQ levels, and as such should have differentiated assessment patterns for each FHEQ level they offer (even if all levels are taught together).
 
 ## Weekly Requirements
-In the class [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=30038) page, you will find the following resources for each week:
-  - This Week's Resources. Contains slides for the online video lectures, weekly [readings](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html), and other information that is relevant to the week.
-  - Video Lectures. These are two "books" that contain a series of video lectures for (A) strategy and (B) analytics. Each "book" is a series of videos (organized as "chapters"). Use the right hand side navigation (or the arrows) to navigate through all the videos.
-  - Class Preparation. This section contains materials you will need to have ready when you walk into class. Typically, this will include the mini-case and any software or web applications you will need to set up.
-
-Each week, you must complete the following **before** class:
-  - Watch the lecture videos. These videos are your required "reading" each week.
-  - In the Class Participation section, read the mini-case and make sure you have set up any software or web applications we need for that week.
-    + For most weeks, you will be asked to read and prepare a mini-case. Each week, the mini-cases will serve as the basis of our in-class discussion and exercise. Reading the mini-case in advance and considering the exercise before you come to class are a critical part of your preparation.
-  - Note: the weekly readings in the [reading list](https://rl.talis.com/3/ucl/lists/F6DEE0C7-F5DD-3B1B-2AAF-B90CCA57AE2A.html) are **not** mandatory. They are there for your reference if you need an additional resource or you want to take a deeper dive into the material.
+You will see in the class [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=59865) page when you have material to prepare for the upcoming week. Materials include:
+  - Readings. Readings might involve cases or other assigned readings
+  - Class Preparation. Software or other setup required on your computer
 
 After each lecture, I will post:
   - The Lecturecast of the class session.
-  - Whiteboard notes and wrap-up slides.
+  - Any in-class materials covered (e.g., slides, whiteboards, etc.)
 
 ## Schedule
-A summary of the weekly topics and mini-cases is posted below.
+Each week, we will be incorporating cases about companies currently facing strategic challenges and incorporating how experimental thinking and experiments can impose some structure around those challenges.
+In addition to the cases we will cover in class, the following summarizes weekly topics in experiments we will cover:
 
-| Week | Strategy                 | Analytics             | Mini-Case                                                 |
-| ---: | :----                    | :----                 | :----                                                     |
-| 1    | Business models          | Data wrangling        | Homegrown—The (Data) Structure of a Business Model        |
-| 2    | External environment     | Descriptive analytics | Home Depot's Changing Environment                         |
-| 3    | Inside the firm          | Surveys               | School of Management Cohort Survey                        |
-| 4    | Organizational design    | Networks              | IdeaWeb—Understanding Workplace Networks                  |
-| 5    | Financial performance    | Regression            | Airbus A380—Data-Driven Decision Making... Under Pressure |
-| 6    | Entrepreneurial strategy | Experiments           | Opinionistas—One Idea, Multiple Strategies                |
-| 7    | Platforms                | Causal modelling      | LoveMyPet—Causal Modelling of Platform Strategies         |
-| 8    | Data-based businesses    | Observational data I  | ProLinked—Estimating the Effect of Recommendations        |
-| 9    | Diversification          | Observational data II | RevCo's Shopper's Club—Acquisition Synergies              |
-| 10   | The strategy leader      | Data ethics           |                                                           |
+| Week | Topic                 |
+| ---: | :----                    |
+| 1    | Class overview|
+| 2    | Introduction to experiments |
+| 3    | Randomization |
+| 4    | Design families |
+| 5    | Outcomes, challenges  |
+| 6    | Data evaluation  |
+| 7    | Estimation |
+| 8    | Experiments and decision-making |
+| 9    | Experimental design challenge |
+| 10   | Review |
 
 ## Datasets and Data Repositories
 If you want to look for an existing dataset for various assignments, I have assembled an list of [data sources](https://github.com/bus-strat-analytics/data-sources) you can use as an initial point for your search.
@@ -144,11 +131,8 @@ There are no required books assigned for class. Here is a selection of books to 
   - Zenger, T. (2016). Beyond Competitive Advantage. Boston, MA: Harvard Business Review Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167506460004761&institutionId=4761&customerId=4760)
 
 2. **Analytics**
-  - Cunningham, S. (2018) [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html). Python code for textbook examples can be found on [Github](https://github.com/tomcaputo/mixtape_learnr/tree/main/Python).
   - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://leanpub.com/openintro-statistics). OpenIntro.
   - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
-  - Gábor, B. and G. Kézdi (2021). [Data Analysis for Business Economics and Policy](https://gabors-data-analysis.com). Cambridge, UK: Cambridge University Press.
-  - Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch (2016). [Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice). World Bank Group.
   - Glennerster, Rachel and K. Takavarasha (2013). Running Randomized Evaluations: A Practical Guide. Princeton: Princeton University Press. [(UCL access)](https://ucl.userservices.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=8167505660004761&institutionId=4761&customerId=4760)
   - Huntington-Klein, Nick (2022). [The Effect](https://theeffectbook.net/index.html). Boca Raton, FL: CRC Press.
 
